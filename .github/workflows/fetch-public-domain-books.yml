@@ -2,6 +2,10 @@ name: Fetch public-domain books
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'catalog/booklist.csv'
+      - '.github/workflows/fetch-public-domain-books.yml'
 
 permissions:
   contents: write
