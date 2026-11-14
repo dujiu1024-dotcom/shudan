@@ -14,7 +14,7 @@
       "local_path": "books/pdf/free-culture-lawrence-lessig.pdf",
       "bytes": 2598727,
       "status": "downloaded",
-      "retrieved_at_utc": "2026-11-14T15:18:22Z"
+      "retrieved_at_utc": "2026-11-14T15:19:05Z"
     },
     {
       "id": "ia-aristotle-rhetoric",
@@ -30,7 +30,7 @@
       "local_path": "books/pdf/aristotles-treatise-on-rhetoric-1872.pdf",
       "bytes": 45643479,
       "status": "downloaded",
-      "retrieved_at_utc": "2026-11-14T15:18:26Z"
+      "retrieved_at_utc": "2026-11-14T15:19:08Z"
     }
   ],
   "errors": []
