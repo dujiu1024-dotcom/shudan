@@ -16,3 +16,13 @@
 - 《The Crowd》使用的是 1896 年英文译本；译本版权需与法文原著分开判断。
 - 《The Expression of the Emotions in Man and Animals》链接指向 Project Gutenberg 收录的英文文本。
 - 上述来源页面均提供纯文本/电子书下载入口。这五本均与用户上传书单匹配，已由 GitHub Actions 下载并提交入库；下载元数据见 metadata/gutenberg-downloads.json。Project Gutenberg 标注为美国公版，但仓库不据此推断所有司法辖区均可自由再分发。
+
+
+## 已补充的开放许可/公版来源
+
+| 书目 | 具体版本 | 来源与许可依据 | 仓库文件 | 状态 |
+|---|---|---|---|---|
+| Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity | Lawrence Lessig, 2004 PDF | [作者官方页面](https://lessig.org/product/free-culture/)明确允许非商业复制并要求署名；本次 PDF 首页标注 CC BY-NC 1.0 | `books/pdf/free-culture-lawrence-lessig.pdf` | 已下载并入库；仅非商业使用 |
+| 修辞学 / Rhetoric（候选版） | Aristotle's Treatise on Rhetoric, 1872 英文版 | [美国国会图书馆记录](https://www.loc.gov/item/17028328/)标注公版、可自由使用；对应扫描件来自 Internet Archive | `books/pdf/aristotles-treatise-on-rhetoric-1872.pdf` | 候选版本已入库，待确认与原书目是否一致 |
+
+下载记录见 `metadata/loc-downloads.json`。不要将候选版本等同于已确认的原书版本。
