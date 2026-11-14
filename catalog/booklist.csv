@@ -40,7 +40,7 @@ BK038,The Hero with a Thousand Faces,,待核验,待核验,未检索,未核验,,,
 BK039,叙事学导论——从经典叙事学到后经典叙事学,,待核验,待核验,未检索,未核验,,,,
 BK040,Storynomics: Story-Driven Marketing in the Post-Advertising World,,待核验,待核验,未检索,未核验,,,,
 BK041,Морфология сказки（故事形态学）,,待核验,待核验,未检索,未核验,,,,
-BK042,修辞学 / Rhetoric,Aristotle,English,1872 edition: Aristotle's Treatise on Rhetoric; Thomas Hobbes and Theodore Alois Buckley,待自动下载,Library of Congress marks the 1872 edition public domain,https://www.loc.gov/item/17028328/,https://www.loc.gov/item/17028328/,,候选版本；原清单未注明作者/版本，全文入库后仍需确认是否对应用户原意
+BK042,修辞学 / Rhetoric,Aristotle,English,1872 edition: Aristotle's Treatise on Rhetoric; Thomas Hobbes and Theodore Alois Buckley,候选版本已下载并入库；待确认书目对应关系,Library of Congress marks this 1872 edition public domain,https://www.loc.gov/item/17028328/,https://archive.org/download/aristotlestreati00aris_0/aristotlestreati00aris_0.pdf,books/pdf/aristotles-treatise-on-rhetoric-1872.pdf,原书目未注明作者/版本；这是可用的候选版本，不作为已确认匹配
 BK043,金字塔原理,,待核验,待核验,未检索,未核验,,,,
 BK044,The Elements of Style,William Strunk Jr.,en,1918/1920 original Strunk text,已下载并入库,Project Gutenberg 标注美国公版；需核验适用地区及具体译本,https://www.gutenberg.org/ebooks/37134,https://www.gutenberg.org/cache/epub/37134/pg37134.txt,books/en/the-elements-of-style-william-strunk.txt,仅对应 Strunk 早期文本；不含后续 Strunk & White 扩充版
 BK045,文案的基本修养,,待核验,待核验,未检索,未核验,,,,
@@ -186,7 +186,7 @@ BK184,"Privacy in Context: Technology, Policy, and the Integrity of Social Life"
 BK185,Understanding Privacy,,待核验,待核验,未检索,未核验,,,,
 BK186,个人信息保护法理解与适用,,待核验,待核验,未检索,未核验,,,,
 BK187,知识产权法教程,,待核验,待核验,未检索,未核验,,,,
-BK188,Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture,Lawrence Lessig,en,2004 Library of Congress digital edition,待自动下载,Library of Congress item record CC BY 4.0,https://www.loc.gov/item/2019666613/,https://www.loc.gov/item/2019666613/,,保留作者署名并按 CC BY 4.0 标注来源
+BK188,Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture,Lawrence Lessig,en,2004 edition,已下载并入库；CC BY-NC 1.0,作者官方页面允许非商业复制并要求署名；本 PDF 首页标注 CC BY-NC 1.0,https://lessig.org/product/free-culture/,https://archive.org/download/free_culture/freeculture.pdf,books/pdf/free-culture-lawrence-lessig.pdf,保留 Lawrence Lessig 署名；仅限非商业使用
 BK189,"Ongoing Crisis Communication: Planning, Managing, and Responding",,待核验,待核验,未检索,未核验,,,,
 BK190,Designing Data-Intensive Applications,,待核验,待核验,未检索,未核验,,,,
 BK191,Designing Machine Learning Systems,,待核验,待核验,未检索,未核验,,,,
