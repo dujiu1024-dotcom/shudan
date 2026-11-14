@@ -14,7 +14,7 @@
 | BK073 | Causality | Judea Pearl；第 2 版，Cambridge University Press，2009 | https://github.com/digoal/blog/blob/5f16423e2f4ca49c757525bbb925d411c005e685/202606/20260602_16.md |
 | BK083 | Field Experiments | Alan S. Gerber、Donald P. Green；2012，W. W. Norton | https://github.com/egap/methods-guides/blob/ea177ce80b53744c6a0aac9e596b6cc0b17fa235/pap/pap.bib |
 | BK087 | Sampling: Design and Analysis | Sharon Lohr；第三版，2022（课程讲义标注） | https://github.com/ManagementSystemsIntl/methods-corner/blob/ef9823df2298c4925451d491abefc0f0b104c66e/sampling/Sampling%20(Lohr)/Sampling%20notes%20(Lohr%202022).qmd |
-| BK092 | 复盘+ | 邱昭良；第 2 版 | https://github.com/able8/weread-hot-booklists/blob/466d56a52771f9a06705359a13a27f2efd0a6d21/temp/831303-bookinfo.json |
+| BK093 | 复盘+ | 邱昭良；第 2 版 | https://github.com/able8/weread-hot-booklists/blob/466d56a52771f9a06705359a13a27f2efd0a6d21/temp/831303-bookinfo.json |
 | BK104 | Market Segmentation | Wedel、Kamakura；Springer，2000 | https://github.com/lablab-ai/community-content/blob/27447ab3376b181e5fbe087a3623363d3620e80d/blog/en/identifying-your-ideal-customer.mdx |
 | BK116 | Consumer Behavior | Michael R. Solomon；第 13 版，2018 | https://github.com/ptreezh/sscisubagent-skills/blob/38d78e5b4452f314a8c6d358c1db678dcf5c0c30/skills/consumer-behavior-expert/references/classic-literature.md |
 | BK147 | 推荐系统实践 | 项亮；人民邮电出版社，2012；ISBN 9787115281587（需出版社核对） | https://github.com/Relph1119/recommendation-system-practice-notes |
