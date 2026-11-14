@@ -1,0 +1,37 @@
+{
+  "books": [
+    {
+      "id": "ia-free-culture",
+      "title": "Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity",
+      "author": "Lawrence Lessig",
+      "archive_identifier": "free_culture",
+      "preferred_filename": "freeculture.pdf",
+      "filename": "free-culture-lawrence-lessig.pdf",
+      "rights_source": "https://lessig.org/product/free-culture/",
+      "rights_basis": "The author’s official page states that the PDF version may be copied and redistributed for non-commercial purposes with attribution; the PDF itself states CC BY-NC 1.0.",
+      "catalog_id": "BK188",
+      "pdf_url": "https://archive.org/download/free_culture/freeculture.pdf",
+      "local_path": "books/pdf/free-culture-lawrence-lessig.pdf",
+      "bytes": 2598727,
+      "status": "downloaded",
+      "retrieved_at_utc": "2026-11-14T15:18:22Z"
+    },
+    {
+      "id": "ia-aristotle-rhetoric",
+      "title": "Aristotle's Treatise on Rhetoric",
+      "author": "Aristotle; Thomas Hobbes; Theodore Alois Buckley",
+      "archive_identifier": "aristotlestreati00aris_0",
+      "preferred_filename": "aristotlestreati00aris_0.pdf",
+      "filename": "aristotles-treatise-on-rhetoric-1872.pdf",
+      "rights_source": "https://www.loc.gov/item/17028328/",
+      "rights_basis": "Library of Congress identifies the 1872 edition as public domain and free to use and reuse. Candidate match only because the user's list gives no author or edition.",
+      "catalog_id": "BK042",
+      "pdf_url": "https://archive.org/download/aristotlestreati00aris_0/aristotlestreati00aris_0.pdf",
+      "local_path": "books/pdf/aristotles-treatise-on-rhetoric-1872.pdf",
+      "bytes": 45643479,
+      "status": "downloaded",
+      "retrieved_at_utc": "2026-11-14T15:18:26Z"
+    }
+  ],
+  "errors": []
+}
