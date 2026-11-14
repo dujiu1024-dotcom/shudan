@@ -21,7 +21,7 @@
 | BK104 | The Challenger Sale | 读书笔记 | https://github.com/klaryoflowai/grow/blob/35bb7b6602329bb3f88c38bd6800aa6a1c372a04/00_STRATEGY/Books/The%20Challenger%20Sale%20-%20Notes.md |
 | BK119 | The E-Myth Revisited | 读书摘要 | https://github.com/geobreed/zettelnotes/blob/e399af7d1ed63e33be131a41cfbdc82ed64e8283/summary/(LIT)%20The%20E-Myth%20Revisited.md |
 | BK125 | 运营之光 | 读书笔记 | https://github.com/chess99/ai-reading/blob/434b6efd9bb5b0a2e25afb88319573aba05e9f83/books/商业产品/市场增长/黄有璨-运营之光.md |
-| BK149 | The Art of SEO | 第三版读书笔记 | https://github.com/shangerxin/BookNotes/blob/9e558a39eb34815d9171cb10a784ee62d3a54779/The%20Art%20of%20SEO,%203rd%20Edition=Eric%20Enge;Note=Erxin.txt |
+| BK150 | The Art of SEO | 第三版读书笔记 | https://github.com/shangerxin/BookNotes/blob/9e558a39eb34815d9171cb10a784ee62d3a54779/The%20Art%20of%20SEO,%203rd%20Edition=Eric%20Enge;Note=Erxin.txt |
 | BK157 | Company of One | 读书笔记 | https://github.com/ejfox/website/blob/377f4ef074542a2710a3767d291d32ca8d27fcbf/content/reading/Jarvis-Company%20Of%20One.md |
 | BK171 | Deep Work | 读书笔记 | https://github.com/tedmiston/notes/blob/afa87d3e47b903be4a49d6b1b0c3d4b6ff9bf34d/books/Deep%20Work.md |
 | BK176 | The Personal MBA | 读书笔记 | https://github.com/tedmiston/notes/blob/afa87d3e47b903be4a49d6b1b0c3d4b6ff9bf34d/books/The%20Personal%20MBA.md |
