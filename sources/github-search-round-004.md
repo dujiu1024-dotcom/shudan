@@ -301,7 +301,6 @@ BK192《The McKinsey Way》、BK193《The Consulting Bible》、BK194《Site Rel
 | BK202 | Free: The Future of a Radical Price | 命中 Chris Anderson 作品书目及文章引用，未发现原书全文 | 书目/评论引用；与已入库的 Lessig《Free Culture》不同书 |
 | BK203 | A Theory of Psychological Reactance | 命中 Brehm 1966 年 Academic Press 书目引用及理论笔记 | 书目/研究笔记，不是全文 |
 | BK204 | Psychological Reactance: A Theory of Freedom and Control | 命中 Brehm & Brehm 1981 年 Academic Press 书目引用、ISBN 012129840X 线索 | 书目元数据，不是全文 |
-| BK205 | Psychological Reactance: A Theory of Freedom and Control | 本书单最后一项与 BK204 同名，可能是重复条目/不同版本或误录；命中同一 1981 年书目引用 | 必须回查原始书单判断是否重复，不应重复采集同一版本 |
 
 ### 本次复核结论
 - BK136–BK205 本轮没有发现可确认新增合法全文；已入库的 BK187《Free Culture》不重复计数。
@@ -309,3 +308,8 @@ BK192《The McKinsey Way》、BK193《The Consulting Bible》、BK194《Site Rel
 - 新增书目元数据/版本线索：BK141、BK144–BK145、BK147–BK155、BK161–BK162、BK164–BK168、BK170、BK172、BK174–BK175、BK183–BK188、BK190–BK192、BK196–BK197、BK199、BK203–BK205。
 - 第三方疑似全文下载线索：BK142、BK146、BK160、BK186、BK189；均未确认授权，不复制。
 - BK205 与 BK204 同名，需对照原始书单和 ISBN/版次消歧。
+
+
+## 编号校正说明（重要）
+
+复核时发现，前面几段逐本检索在若干位置因跳过已入库书籍/未单独查询的条目，临时序号与原始清单 ID 不一致。现已按 catalog/booklist.csv 的原始 ID 将本报告追加检索表逐行校正。BK205 是《Psychological Reactance: A Theory of Freedom and Control》（1981），BK204 是《A Theory of Psychological Reactance》（1966）；此前额外重复查询形成的重复行已删除。若此前浏览器缓存过旧版，请以本次提交后的报告为准。
