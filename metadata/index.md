@@ -6,7 +6,7 @@
 |---|---|---|---|
 | BK008 | Yes! 50 Scientifically Proven Ways to Be Persuasive | Noah J. Goldstein；GitHub OPF 元数据，正文与许可未核实 | https://github.com/Vast-As-A-Sea/4700-Mobi-English-text-books-multiplayer-writer-N/blob/e8843068eb25ad99ccee317c23cda9b0e0c9ac2c/Noah%20J.%20Goldstein/Noah%20J.%20Goldstein/Yes!_%2050%20Scientifically%20Proven%20Ways%20to%20B%20(6078)/metadata.opf |
 | BK012 | 现代社会心理学 | 候选教材：时蓉华主编、华东师范大学出版社；原书目缺作者/ISBN，待确认 | https://github.com/fanfeilong/f3/blob/53d68374091010bc7b5a0af2a4cd86c9e3577cca/science/social_psychology.md |
-| BK035 | 大众传播理论：范式与流派 | 刘海龙著；第三方条目标注 PDF；版本/授权待核实 | https://github.com/isanthree/isanthree.github.io/blob/74a56346212206f9385aad56fedccb839ad63c7b/_posts/2022-10-05-da-zhong-chuan-bo-li-lun.md |
+| BK036 | 大众传播理论：范式与流派 | 刘海龙著；第三方条目标注 PDF；版本/授权待核实 | https://github.com/isanthree/isanthree.github.io/blob/74a56346212206f9385aad56fedccb839ad63c7b/_posts/2022-10-05-da-zhong-chuan-bo-li-lun.md |
 | BK047 | Positioning | Jack Trout / Al Ries；中译本机械工业出版社；2011；ISBN 9787111326403 | https://github.com/zhangjunhd/reading-notes/blob/master/bussiness/marketing/positioning.md |
 | BK058 | Film Art | David Bordwell、Kristin Thompson；第 10 版，2013 年 | https://github.com/standardgalactic/alphabet/blob/58037cac81cabccfdb968dc4469add455b527243/manuscripts/geodesics_of_attention_v2.tex |
 | BK069 | Subtitling: Concepts and Practices | Jorge Díaz Cintas、Aline Remael；Routledge，2021，292 页，ISBN 9781138940543 | https://github.com/fielddaylab/GBLS-scholarship/blob/2b30e9de71fcf6bfa5566ccac69c8c7291028f28/1_coded_reference_corpus_articles/davis2022.md |
