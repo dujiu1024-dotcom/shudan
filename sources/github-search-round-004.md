@@ -226,3 +226,86 @@ BK192《The McKinsey Way》、BK193《The Consulting Bible》、BK194《Site Rel
 - 书目元数据/版本线索：BK092、BK104–BK106、BK111、BK115–BK117、BK120、BK122、BK126、BK131、BK134。
 - 疑似第三方下载线索：BK093、BK099、BK105；未确认许可，不复制。
 - 无明确匹配：BK110、BK121、BK123。
+
+
+## 追加检索记录（2026-11-14：逐本复核 BK136–BK205）
+
+| ID | 书名 | GitHub 命中 | 分类与处理 |
+|---|---|---|---|
+| BK136 | Writing Effective Use Cases | 命中 Cockburn 用例方法的技术说明/方法引用 | 方法资料，非全文 |
+| BK137 | Domain-Driven Design | 命中 DDD 代码实践、读书资源书单及引用 | 技术实践/书目，不是原书 |
+| BK138 | Specification by Example | 命中 Gojko Adzic 专家资料、BDD 文章 | 方法资料/书目，不是全文 |
+| BK139 | The Goal | 命中 Goldratt 专家知识库及书籍清单，未发现可确认全文 | 阅读辅助/书目 |
+| BK140 | Inspired | 命中 Marty Cagan 书籍介绍、作者访谈资料 | 书目/访谈，不是全文 |
+| BK141 | The Seven Pillars of Customer Success | 命中书籍推荐清单，未找到原书文件 | 书目元数据 |
+| BK142 | 合同法研究 | 命中王利明《合同法研究》各卷第三方 PDF 下载页面线索 | 疑似全文下载线索；版本卷次需确认，未授权不复制 |
+| BK143 | Customer Success | 命中 Nick Mehta 专家资料和客户成功方法文件 | 方法/人物资料，不是全文 |
+| BK144 | The Service Profit Chain | 精确检索未发现可确认原书文件，主要为普通引用 | 无有效全文命中 |
+| BK145 | Permission Marketing | 命中 Seth Godin 人物/观点资料，未找到原书文件 | 书目/观点资料 |
+| BK146 | 推荐系统实践 | 命中电子书目录下载链接及技术学习资源；既有报告已记录同名 PDF 文件线索和读书笔记仓库 | 元数据/笔记/疑似全文线索；未授权不复制 |
+| BK147 | 深度学习推荐系统 | 命中 Datawhale 学习计划与课程章节引用王喆著作 | 教学资料/书目，不是全文 |
+| BK148 | The Cold Start Problem | 命中 Andrew Chen 书籍元数据、研究笔记与网络效应方法资料 | 笔记/元数据，不是全文 |
+| BK149 | The Art of SEO | 命中第三版读书笔记及 SEO 教程引用 | 笔记/方法资料，不是全文 |
+| BK150 | SEO 实战密码 | 命中作者 ZAC、版本迭代及 SEO 方法知识库 | 书目/方法蒸馏，不是全文 |
+| BK151 | The Long and the Short of It | 命中 Binet & Field 广告效果方法蒸馏 | 方法蒸馏，不是全文 |
+| BK152 | Platform Revolution | 命中 Geoffrey Parker、Marshall Van Alstyne 等作者资料及平台理论引用 | 书目/理论资料，不是全文 |
+| BK153 | Content Rules | 命中 Ann Handley 人物/内容营销方法资料 | 方法蒸馏/书目提及 |
+| BK154 | Everybody Writes | 命中 Ann Handley 内容写作方法资料 | 方法蒸馏/书目提及 |
+| BK155 | Diffusion of Innovations | 命中 Everett Rogers 经典书目引用和创新扩散理论文章 | 书目/理论资料，不是全文 |
+| BK156 | Business Model Generation | 命中商业模式画布知识蒸馏和章节摘录 | 摘录/方法卡，不是全文 |
+| BK157 | Company of One | [Paul Jarvis 读书笔记](https://github.com/ejfox/website/blob/377f4ef074542a2710a3767d291d32ca8d27fcbf/content/reading/Jarvis-Company%20Of%20One.md) | 笔记，不是全文 |
+| BK158 | The Lean Startup | 命中 Eric Ries 访谈转录及书籍元数据页 | 访谈/书目，不是全文 |
+| BK159 | Built to Sell | [书籍摘要](https://github.com/chintaal/textbook-app/blob/d5ed9c255f095594d9a069dee937e0caa9485c8b/KnowledgeBaseParsing/San/Built%20To%20Sell.md)；另有书评/摘要 | 摘要/笔记，不是全文 |
+| BK160 | 底层逻辑 | 命中刘润《底层逻辑》书目清单及第三方下载链接 | 书目/下载线索，未授权不复制 |
+| BK161 | The Strategy and Tactics of Pricing | 精确搜索未发现明确匹配原书文件，命中主要为书单及定价主题材料 | 无可确认全文 |
+| BK162 | Confessions of the Pricing Man | 精确检索未获得可确认同名文件；结果偏向其他定价书 | 无有效命中 |
+| BK163 | Monetizing Innovation | 命中 Madhavan Ramanujam 人物资料、播客访谈转录与方法引用 | 访谈/方法资料，不是全文 |
+| BK164 | Implementing Value Pricing | 命中书目链接和服务定价资料 | 书目元数据/方法引用 |
+| BK165 | Priceless: The Myth of Fair Value | 命中书单与书评引用，未发现原书文件 | 书目/评论，不是全文 |
+| BK166 | The 1% Windfall | 命中书名索引及其他无关文本，未发现可确认原书文件 | 无有效全文命中 |
+| BK167 | Financial Intelligence | 命中 Karen Berman、Joe Knight 书籍介绍和书目数据 | 元数据/书籍介绍，不是全文 |
+| BK168 | 一本书读懂财报 | 精确检索主要命中同类财报书籍书单，未找到明确同名内容 | 无有效全文命中 |
+| BK169 | The Effective Executive | 命中 Drucker 管理方法摘录、章节/知识蒸馏资料；旧报告已有详细读书笔记入口 | 摘录/笔记，不是全文 |
+| BK170 | Virtual Freedom | 命中 Chris Ducker 书籍介绍及作者/书目元数据 | 书目元数据，不是全文 |
+| BK171 | Deep Work | [Cal Newport 读书笔记](https://github.com/tedmiston/notes/blob/afa87d3e47b903be4a49d6b1b0c3d4b6ff9bf34d/books/Deep%20Work.md)；另有章节笔记 | 笔记/摘要，非全文 |
+| BK172 | Who: The A Method for Hiring | 命中招聘阅读书单及管理资源清单，未找到原书文件 | 书目清单，无全文 |
+| BK173 | Profit First | 命中 Mike Michalowicz 书籍介绍和文本摘要 | 摘要/元数据，不是全文 |
+| BK174 | Simple Numbers, Straight Talk, Big Profits! | 命中财务书单及会计知识资料 | 书目/应用资料，不是全文 |
+| BK175 | 財務3表一体理解法 | 命中日文书单及财务报表工具引用，未发现原书内容 | 书目元数据 |
+| BK176 | The Personal MBA | [Josh Kaufman 读书笔记](https://github.com/tedmiston/notes/blob/afa87d3e47b903be4a49d6b1b0c3d4b6ff9bf34d/books/The%20Personal%20MBA.md)；另有多份摘要 | 笔记/摘要，非全文 |
+| BK177 | 肖星的财务思维课 | [微信读书笔记](https://github.com/able8/weread-hot-booklists/blob/466d56a52771f9a06705359a13a27f2efd0a6d21/books/投资书籍/肖星的财务思维课.md)；另有文件目录线索 | 笔记/元数据，非全文 |
+| BK178 | Small Giants | 命中书评及书籍元数据 JSON，作者 Bo Burlingham | 书评/元数据，不是全文 |
+| BK179 | The Great CEO Within | 命中 Matt Mochary 播客访谈转录，未发现原书文件 | 访谈转录，不是全文 |
+| BK180 | The Founder's Dilemmas | 命中 Noam Wasserman 创业书单和作者书籍摘要索引 | 书目/摘要索引，不是全文 |
+| BK181 | Scaling Up | 命中 Verne Harnish 书籍介绍、方法摘要和元数据文件 | 书籍介绍/摘要，不是全文 |
+| BK182 | 广告合规审查实务手册 | 精确检索无命中 | 暂无有效命中 |
+| BK183 | Privacy in Context | 命中 Helen Nissenbaum 作品条目和隐私理论资料；已有 DOI/年份线索见本报告前文 | 书目/理论资料，不是全文 |
+| BK184 | Understanding Privacy | 命中 Heather Burns 2022 版官方宣传链接及读者阅读记录 | 版本/元数据/阅读记录，不是全文；与原书目作者版本待确认 |
+| BK185 | 个人信息保护法理解与适用 | 命中法律合规研究资源，未发现明确同名原书文件 | 法律资料/无全文命中 |
+| BK186 | 知识产权法教程 | 命中书目数据库记录及第三方大型电子书目录线索 | 书目/未核实下载线索，不复制 |
+| BK187 | Free Culture | 命中 Lawrence Lessig 作品资料和读书笔记；项目已入库 CC BY-NC 1.0 许可 PDF | 已入库全文；笔记单独归档 |
+| BK188 | Ongoing Crisis Communication | 命中 SAGE 出版社官方书目入口及 Coombs 版本引用 | 官方书目入口/元数据，非全文 |
+| BK189 | Designing Data-Intensive Applications | 命中技术书单和中文翻译项目线索；旧报告已有第三方 PDF 文件线索与章节笔记入口 | 翻译项目/笔记/疑似第三方全文；未确认许可，不复制 |
+| BK190 | Designing Machine Learning Systems | 命中 Chip Huyen 2022、O'Reilly 版本书目和作者资料；旧报告已有章节笔记 | 书目元数据/笔记，非全文 |
+| BK191 | The McKinsey Way | 命中业务分析方法参考文献，列出 Ethan M. Rasiel、McGraw-Hill | 书目元数据 |
+| BK192 | The Consulting Bible | 命中 Alan Weiss 书籍引用和 O'Reilly 学习计划入口 | 书目/阅读入口，不是全文 |
+| BK193 | Site Reliability Engineering | [Google SRE 读书笔记](https://github.com/lorin/booknotes/blob/8de8dabe7c918e688720e2f862efa4120f36c272/Google-SRE.md)；另有无责复盘方法摘要 | 笔记/摘要，不是全文 |
+| BK194 | The Mythical Man-Month | 命中 Brooks 定律知识文章及书目引用 | 摘录/书目，不是全文 |
+| BK195 | How the Mighty Fall | 命中 Jim Collins 作品介绍和书籍摘要文件 | 摘要/元数据，不是全文 |
+| BK196 | Software Estimation: Demystifying the Black Art | 命中软件工程书单及估算 Skill 对该书的参考引用 | 书目/方法引用，不是全文 |
+| BK197 | The Pragmatic Programmer | 命中书目/工程师阅读清单，未找到可确认原书文件 | 书目清单，不是全文 |
+| BK198 | Give and Take | [章节笔记](https://github.com/ibrahim0814/books/blob/f16f7a60817faa49fe4e22ce4cacd8cecebd19e1/Give%20and%20Take%20by%20Adam%20Grant/README.md) | 笔记/摘要，不是全文 |
+| BK199 | They Ask, You Answer | 命中 Marcus Sheridan 访谈转录、营销资源参考书目 | 访谈/书目，不是全文 |
+| BK200 | The Go-Giver | [书籍摘要](https://github.com/bahmanabl/RAGWise/blob/1446142a073adf5936ae5fab20da45d20b9a8af3/_posts/2025-08-02-book-summary-the-go-giver-bob-burg.md)；旧报告已有笔记索引 | 摘要/笔记，不是全文 |
+| BK201 | Jab, Jab, Jab, Right Hook | 命中 Gary Vaynerchuk 作品方法资料和书目知识页，明确不复现原书文字 | 方法摘要/书目，不是全文 |
+| BK202 | Free: The Future of a Radical Price | 命中 Chris Anderson 作品书目及文章引用，未发现原书全文 | 书目/评论引用；与已入库的 Lessig《Free Culture》不同书 |
+| BK203 | A Theory of Psychological Reactance | 命中 Brehm 1966 年 Academic Press 书目引用及理论笔记 | 书目/研究笔记，不是全文 |
+| BK204 | Psychological Reactance: A Theory of Freedom and Control | 命中 Brehm & Brehm 1981 年 Academic Press 书目引用、ISBN 012129840X 线索 | 书目元数据，不是全文 |
+| BK205 | Psychological Reactance: A Theory of Freedom and Control | 本书单最后一项与 BK204 同名，可能是重复条目/不同版本或误录；命中同一 1981 年书目引用 | 必须回查原始书单判断是否重复，不应重复采集同一版本 |
+
+### 本次复核结论
+- BK136–BK205 本轮没有发现可确认新增合法全文；已入库的 BK187《Free Culture》不重复计数。
+- 新增笔记、摘要、方法资料：BK139、BK140、BK143、BK146–BK160、BK163、BK169、BK171、BK173、BK176–BK181、BK193–BK200。
+- 新增书目元数据/版本线索：BK141、BK144–BK145、BK147–BK155、BK161–BK162、BK164–BK168、BK170、BK172、BK174–BK175、BK183–BK188、BK190–BK192、BK196–BK197、BK199、BK203–BK205。
+- 第三方疑似全文下载线索：BK142、BK146、BK160、BK186、BK189；均未确认授权，不复制。
+- BK205 与 BK204 同名，需对照原始书单和 ISBN/版次消歧。
