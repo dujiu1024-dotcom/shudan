@@ -8,7 +8,7 @@
 | BK031 | Understanding Media | 章节材料：Media Cold and Hot | https://github.com/jch3xyz/Material-Immaterial---Curatorial-Research-Vault/blob/aade8be218ea9c48cb93c0623b82bc7f302d5195/sources/McLuhan%20-%20Understanding%20Media%20-%2005%20Chapter%202%20-%20Media%20Cold%20and%20Hot.md |
 | BK040 | Storynomics | 故事营销方法卡/技能文件 | https://github.com/ddcat-ai/open-ai-canvas/tree/ac9a1a3328f78811280c7dcc8b61f34321c6ec8a/backend/builtin/故事营销八阶段 |
 | BK067 | In the Blink of an Eye | Walter Murch 六法则知识卡 | https://github.com/easyLong/easy-wiki/blob/7daed86917d9eaef62376ad73ce0a85b5c7a572f/raw/walter-murch-六法则-原文.md |
-| BK066 | Audio-Vision | Michel Chion 术语卡：acousmêtre、synchresis、audio-poetics | https://github.com/ddcat-ai/open-ai-canvas/tree/ac9a1a3328f78811280c7dcc8b61f34321c6ec8a/backend/builtin/视听理论基础 |
+| BK068 | Audio-Vision | Michel Chion 术语卡：acousmêtre、synchresis、audio-poetics | https://github.com/ddcat-ai/open-ai-canvas/tree/ac9a1a3328f78811280c7dcc8b61f34321c6ec8a/backend/builtin/视听理论基础 |
 | BK068 | The Technique of Film Editing | 剪辑法则引用与应用资料 | https://github.com/ddcat-ai/open-ai-canvas/tree/ac9a1a3328f78811280c7dcc8b61f34321c6ec8a/backend/builtin/影视剧作工坊 |
 | BK076 | 基本有用的计量经济学 | 配套实验数据和方法数据仓库 | https://github.com/zhaoxiliang/causalinference |
 | BK112 | Business Process Change | 三层流程架构等方法 Skill | https://github.com/qa-aman/claude-skills/tree/be4abcc39fc5ee87eb0e52d07ce9b89d777b67d3/skills/by-role/business-analyst/process-mapper |
