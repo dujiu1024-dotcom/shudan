@@ -21,7 +21,7 @@
 | BK184 | Privacy in Context | Helen Nissenbaum；DOI 10.1515/9780804772891；年份在来源间有 2009/2010 差异 | https://github.com/MSKazemi/yazses/blob/main/design/research/hci-corpus.bib |
 | BK185 | Understanding Privacy | Heather Burns；Smashing Books，2022；是否为原清单所指版本待核验 | https://github.com/12bitvn/news.12bit.vn/blob/bcc6e66f8e1a3ea178293913496ec8229abc1107/content/links/meet-understanding-privacy-a-new-smashing-book-by-heather-burns-2022-09-05T14:00:00Z.md |
 | BK191 | Designing Machine Learning Systems | Chip Huyen；O'Reilly，2022 | https://github.com/kzinmr/ai-topics/blob/8d597396ab5a6e234561d8c080ef8d9547fb21e5/wiki/entities/chip-huyen.md |
-| BK191 | The McKinsey Way | Ethan M. Rasiel；McGraw-Hill | https://github.com/a5c-ai/babysitter/blob/feb68abe397acc14f32b34984975c48fedba2b33/library/specializations/domains/business/business-analysis/references.md |
+| BK192 | The McKinsey Way | Ethan M. Rasiel；McGraw-Hill | https://github.com/a5c-ai/babysitter/blob/feb68abe397acc14f32b34984975c48fedba2b33/library/specializations/domains/business/business-analysis/references.md |
 | BK204/BK205 | Psychological Reactance: A Theory of Freedom and Control | Brehm & Brehm；Academic Press，1981；ISBN 012129840X。BK205 与 BK204 重名，需核对原始清单 | https://github.com/bahattinyunus/inanc-egitim-diyalektigi/blob/3b842d91a71712fdccac7b8e67e3b425eb5303af/docs/kaynaklar/REFERENCES.md |
 
 完整检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
