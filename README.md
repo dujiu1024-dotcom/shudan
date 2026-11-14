@@ -18,7 +18,10 @@
 
 ## 目录约定
 
-- `catalog/`：原始书单、标准化书目清单，以及分开的 GitHub 笔记、摘录和书籍元数据索引
+- `catalog/`：原始书单与标准化书目清单
+- `notes/`：GitHub 读书笔记、阅读摘要与书评索引
+- `excerpts/`：章节材料、摘录、视频转录与方法蒸馏索引
+- `metadata/`：书籍作者、版本、ISBN、出版社、DOI 等元数据索引及下载元数据
 - `books/`：已确认可合法镜像的电子书
 - `sources/`：来源、许可与分轮检索记录
 - `metadata/`：结构化下载与来源元数据
@@ -32,8 +35,8 @@
 - *Free Culture* 的本次 PDF 首页标注 CC BY-NC 1.0；作者官方页面允许非商业复制并要求署名。仓库仅按非商业个人学习用途记录，后续使用必须保留署名并遵守许可。
 - 五本 Gutenberg 版本由其平台标注为美国公版；仍需核验适用地区法律，尤其注意《The Crowd》的英译本和《The Elements of Style》的早期版本边界。
 - GitHub Actions 已配置为书目清单更新时自动同步上述来源，并提交下载元数据。
-- GitHub 检索已形成四轮记录：[机构/公开来源第一轮](sources/research-round-001.md)、[机构/公开来源第二轮](sources/research-round-002.md)、[GitHub 检索第三轮](sources/github-search-round-003.md)、[GitHub 扩展检索第四轮](sources/github-search-round-004.md)。第三、四轮同时将笔记、摘录和元数据分开登记，见 [读书笔记索引](catalog/github-reading-notes.md)、[摘录索引](catalog/github-excerpts.md)、[书籍元数据索引](catalog/github-book-metadata.md)。
-- GitHub 检索命中不等于全文已取得，也不等于拥有再分发权。未核实许可的 PDF/EPUB/MOBI 只保留来源线索；未检索到有效命中的书目仍需继续逐本核查，不能按“无资源”结案。
+- 已完成原始 205 本书的 GitHub 首轮逐本检索（BK001–BK205），检索记录见 [GitHub 检索第一轮](sources/github-search-round-001.md)、[第二轮](sources/github-search-round-002.md)、[第三轮](sources/github-search-round-003.md) 和 [扩展检索第四轮](sources/github-search-round-004.md)。检索结果按类型分开归档：[读书笔记与阅读摘要](notes/index.md)、[摘录/章节材料/方法蒸馏](excerpts/index.md)、[书籍元数据与版本线索](metadata/index.md)。
+- GitHub 检索命中不等于全文已取得，也不等于拥有再分发权。未核实许可的 PDF/EPUB/MOBI 只保留来源线索；未检索到有效命中的书目仍需换关键词、作者、ISBN 和文件名进行二次检索，不能按“无资源”结案。
 - 论文引用用途增加版本核对要求：作者、译者/编者、版次、出版社、出版年、页码必须能对应到实际使用的文本。
 
 ## 采集流程
