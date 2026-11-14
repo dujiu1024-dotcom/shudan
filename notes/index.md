@@ -13,7 +13,7 @@
 | BK018 | 乡土中国 | 读书笔记 | https://github.com/hokingyang/learngit/blob/b8e32a0c0372bacebe74b2f45a0bce6554b01f4a/乡土中国.md |
 | BK025 | 把自己作为方法 | 阅读摘要 | https://github.com/SHERlocked93/blog/blob/911e60beaff54b6a3593063b4224fc1f23f40ac3/Docs/《把自己作为方法》阅读摘要.md |
 | BK031 | Understanding Media | 阅读笔记 | https://github.com/band/technosocial-praxis/blob/e03beb9fd24dd2cecb68de3641ea1fdde2ca4d83/notes/20250605%20-%20McLuhan%20Understanding%20Media.md |
-| BK033 | Amusing Ourselves to Death | 读书笔记 | https://github.com/skellis46/slipbox/blob/89b152cee69b6e8017bca766dc390f138723da99/literature%20notes/Postman%20-%20Amusing%20Ourselves%20to%20Death.md |
+| BK034 | Amusing Ourselves to Death | 读书笔记 | https://github.com/skellis46/slipbox/blob/89b152cee69b6e8017bca766dc390f138723da99/literature%20notes/Postman%20-%20Amusing%20Ourselves%20to%20Death.md |
 | BK043 | 文案的基本修养 | 读书笔记 | https://github.com/hokingyang/learngit/blob/b8e32a0c0372bacebe74b2f45a0bce6554b01f4a/文案的基本修养.md |
 | BK075 | 数据思维：从数据分析到商业价值 | 读书笔记 | https://github.com/hokingyang/learngit/blob/b8e32a0c0372bacebe74b2f45a0bce6554b01f4a/数据思维.md |
 | BK092 | 复盘+ | 微信读书笔记 | https://github.com/able8/weread-hot-booklists/blob/466d56a52771f9a06705359a13a27f2efd0a6d21/books/【技能】个人基础能力提升/复盘+：把经验转化为能力（第2版）.md |
