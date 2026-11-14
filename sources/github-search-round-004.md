@@ -299,8 +299,8 @@ BK192《The McKinsey Way》、BK193《The Consulting Bible》、BK194《Site Rel
 | BK200 | The Go-Giver | [书籍摘要](https://github.com/bahmanabl/RAGWise/blob/1446142a073adf5936ae5fab20da45d20b9a8af3/_posts/2025-08-02-book-summary-the-go-giver-bob-burg.md)；旧报告已有笔记索引 | 摘要/笔记，不是全文 |
 | BK201 | Jab, Jab, Jab, Right Hook | 命中 Gary Vaynerchuk 作品方法资料和书目知识页，明确不复现原书文字 | 方法摘要/书目，不是全文 |
 | BK202 | Free: The Future of a Radical Price | 命中 Chris Anderson 作品书目及文章引用，未发现原书全文 | 书目/评论引用；与已入库的 Lessig《Free Culture》不同书 |
-| BK203 | A Theory of Psychological Reactance | 命中 Brehm 1966 年 Academic Press 书目引用及理论笔记 | 书目/研究笔记，不是全文 |
-| BK204 | Psychological Reactance: A Theory of Freedom and Control | 命中 Brehm & Brehm 1981 年 Academic Press 书目引用、ISBN 012129840X 线索 | 书目元数据，不是全文 |
+| BK204 | A Theory of Psychological Reactance | 命中 Brehm 1966 年 Academic Press 书目引用及理论笔记 | 书目/研究笔记，不是全文 |
+| BK205 | Psychological Reactance: A Theory of Freedom and Control | 命中 Brehm & Brehm 1981 年 Academic Press 书目引用、ISBN 012129840X 线索 | 书目元数据，不是全文 |
 
 ### 本次复核结论
 - BK136–BK205 本轮没有发现可确认新增合法全文；已入库的 BK187《Free Culture》不重复计数。
