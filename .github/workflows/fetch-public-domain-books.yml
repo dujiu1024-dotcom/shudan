@@ -5,7 +5,6 @@ on:
   push:
     paths:
       - 'catalog/booklist.csv'
-      - '.github/workflows/fetch-public-domain-books.yml'
 
 permissions:
   contents: write
