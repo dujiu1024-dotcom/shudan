@@ -130,3 +130,41 @@ BK192《The McKinsey Way》、BK193《The Consulting Bible》、BK194《Site Rel
 - 新增书目元数据：BK051、BK053、BK058、BK061–BK064。
 - 暂无有效命中：BK055、BK057、BK060；BK052 仅主题资料。
 - 所有条目仍严格区分原书全文与笔记、摘录、书目数据。
+
+
+## 追加检索记录（2026-11-14：逐本复核 BK066–BK090）
+
+| ID | 书名 | GitHub 命中 | 分类与处理 |
+|---|---|---|---|
+| BK066 | Audio-Vision: Sound on Screen | 命中 Michel Chion 视听理论概念卡（acousmêtre、synchresis、audio-poetics） | 方法卡/概念摘录，不是全文 |
+| BK067 | Sound Design: The Expressive Power of Music, Voice and Sound Effects in Cinema | 命中书名提及、相关音频设计资源清单，未找到原书文件 | 书目提及/主题资料 |
+| BK068 | The Technique of Film Editing | 命中影视剪辑方法文档引用 Walter Murch 等剪辑法则 | 方法引用/摘录，不是全文 |
+| BK069 | Subtitling: Concepts and Practices | 命中学术书评/书目记录，Jorge Díaz Cintas、Aline Remael，Routledge 2021，292 页，ISBN 9781138940543 | 书目元数据/书评，不是全文 |
+| BK070 | Die neue Typographie | 命中 Jan Tschichold 1928 年书目/阅读记录及人物资料 | 书目元数据/阅读记录 |
+| BK071 | Detailtypografie | 命中 BibTeX 书目：Verlag Hermann Schmidt，2002，ISBN 978-3874396424 | 书目元数据 |
+| BK072 | The Book of Why | 命中 Judea Pearl 书目引用及人物知识页，未发现原书文件 | 书目元数据/二手知识页 |
+| BK073 | Causality: Models, Reasoning, and Inference | 命中 2nd edition、Cambridge University Press、2009 等参考文献记录 | 书目元数据 |
+| BK074 | Mostly Harmless Econometrics | 命中复现项目、课程书单和数据/代码资源；未发现原书全文 | 教学资源/复现代码，非全文 |
+| BK075 | 数据思维：从数据分析到商业价值 | [读书笔记](https://github.com/hokingyang/learngit/blob/b8e32a0c0372bacebe74b2f45a0bce6554b01f4a/数据思维.md)，注明王汉生著；另有书目介绍 | 笔记/元数据，非全文 |
+| BK076 | 基本有用的计量经济学 | 命中配套数据仓库、读书笔记，以及第三方 PDF 下载页面线索 | 数据/笔记单独保存；第三方下载线索未授权，不复制 |
+| BK077 | Counterfactuals | 命中 David Lewis 1973 年 Harvard University Press 书目引用和人物资料 | 书目元数据，无全文 |
+| BK078 | Trustworthy Online Controlled Experiments | 命中 GrowthBook 官方文档推荐书目及实验计划引用，未发现原书文件 | 书目/应用资源 |
+| BK079 | Statistics for Experimenters: Design, Innovation, and Discovery | 命中统计软件数据引用、实验案例和 BibTeX 记录 | 数据/书目元数据，非全文 |
+| BK080 | Field Experiments: Design, Analysis, and Interpretation | 命中 BibTeX 记录：Alan S. Gerber、Donald P. Green，2012，W. W. Norton | 书目元数据 |
+| BK081 | The Design of Experiments | 命中 R/Agricultural data 项目引用 R. A. Fisher 1935 版；未发现全文 | 书目引用，非全文；既有借阅线索仍有效 |
+| BK082 | Statistics for Experimenters | 命中 R 官方源码书目及统计案例引用 George E. P. Box、William G. Hunter、J. Stuart Hunter | 书目元数据/案例数据 |
+| BK083 | How to Lie with Statistics | 命中 Derrell Huff 书籍阅读条目/教学资料，未发现可核验全文 | 阅读索引/书目，不是全文 |
+| BK084 | Survey Sampling | 命中 Leslie Kish 1965 版书目引用和学术阅读笔记 | 书目元数据/阅读笔记 |
+| BK085 | Nonresponse in Household Interview Surveys | 命中 R. M. Groves、M. P. Couper 1998 版书目引用及相关论文摘要 | 书目元数据/研究引用 |
+| BK086 | Sampling: Design and Analysis | 命中 Sharon L. Lohr 第三版（2022）课程讲义/阅读笔记 | 讲义/笔记，不是全文 |
+| BK087 | How to Measure Anything | 命中 Douglas W. Hubbard 2007 版元数据与阅读索引 | 书目元数据 |
+| BK088 | Measure What Matters | 命中 John Doerr 读书摘要/笔记与 OKR 阅读书单 | 摘要/笔记，非全文 |
+| BK089 | Measuring the User Experience | 命中可用性测试引用及相关书目资料，未找到原书文件 | 书目/研究引用 |
+| BK090 | The Fifth Discipline | 命中 Peter Senge 书籍阅读笔记/参考文献；旧报告另有专门笔记仓库线索 | 笔记/书目，非全文 |
+
+### 本次复核结论
+- 新增确认合法完整全文：0。
+- 新增笔记/摘要/概念卡/讲义：BK066、BK068、BK075–BK076、BK083–BK084、BK086、BK088、BK090。
+- 新增书目元数据/引用：BK069–BK073、BK077–BK082、BK085、BK087、BK089。
+- 第三方疑似全文线索：BK076；未确认授权，不复制。
+- 所有命中均已与完整原书区分，不计入全文入库。
