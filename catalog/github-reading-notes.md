@@ -21,3 +21,7 @@
 | BK177 | The Personal MBA | 读书笔记/章节摘要 | https://github.com/tedmiston/notes/blob/master/books/The%20Personal%20MBA.md ; https://github.com/jbdamask/Books/blob/master/the-personal-mba.md |
 
 来源授权状态未逐一核实。这里只保留定位链接；不复制他人笔记全文。
+
+| BK190 | Designing Data-Intensive Applications | 章节笔记/摘要 | https://github.com/mkassm/designing-data-intensive-applications-notes ; https://github.com/SanDiegoMachineLearning/bookclub/blob/master/designing-data-intensive-apps.md ; https://github.com/ps06756/Designing-Data-Intensive-Applications |
+| BK191 | Designing Machine Learning Systems | 章节笔记/摘要 | https://github.com/millengustavo/ml-books/blob/master/designing-ml-systems/notes.md ; https://github.com/djdev/designing-ml-systems-book-summary |
+| BK201 | The Go-Giver | 书籍笔记索引（需进一步打开核对具体内容） | https://github.com/ketanarlulkar/Book_Summaries |
