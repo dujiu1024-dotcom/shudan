@@ -28,9 +28,11 @@
 ## 当前采集状态
 
 - 已将 211 本书导入采集台账。
-- 已完成 5 本英文全文采集并入库：The Crowd、The Theory of the Leisure Class、The Expression of the Emotions in Man and Animals、Public Opinion、The Elements of Style。五个文本均已下载，采集元数据记录了来源、字节数和版本说明。
-- 五本均为 Project Gutenberg 所列美国公版版本；仓库记录同时要求读者自行核验所在地法律，尤其注意《The Crowd》的英译本和《The Elements of Style》的早期版本边界。
-- GitHub Actions 已配置为书目清单更新时自动尝试同步这五本公开文本。
+- 已完成 **6 本**清单书籍的全文采集并入库：上述 5 本 Project Gutenberg 英文文本，以及 Lawrence Lessig 的 *Free Culture* PDF。
+- 另下载了 Aristotle《Rhetoric》的 1872 年英文版本，作为清单中“修辞学 / Rhetoric”的候选版本；由于原清单未给作者和版本，暂不计入已确认匹配数量。
+- *Free Culture* 的本次 PDF 首页标注 CC BY-NC 1.0；作者官方页面允许非商业复制并要求署名。仓库仅按非商业个人学习用途记录，后续使用必须保留署名并遵守许可。
+- 五本 Gutenberg 版本由其平台标注为美国公版；仍需核验适用地区法律，尤其注意《The Crowd》的英译本和《The Elements of Style》的早期版本边界。
+- GitHub Actions 已配置为书目清单更新时自动同步上述来源，并提交下载元数据。
 - 其余书目正在逐本核查作者、版本、开放许可和正式获取渠道。
 
 ## 采集流程
