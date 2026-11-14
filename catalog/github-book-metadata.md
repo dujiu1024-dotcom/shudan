@@ -18,3 +18,8 @@
 | BK170 | The Effective Executive | Peter F. Drucker；中译本机械工业出版社；译者许是祥；2009；ISBN 9787111280705 | https://github.com/zhangjunhd/reading-notes/blob/master/bussiness/management/TheEffectiveExecutive.md | 书目线索 |
 | BK184 | Privacy in Context | Helen Nissenbaum；Stanford University Press；2009/2010 版次记录有差异；DOI 10.1515/9780804772891 | https://github.com/MSKazemi/yazses/blob/main/design/research/hci-corpus.bib | 版本年份待核对 |
 | BK185 | Understanding Privacy | 候选作者 Heather Burns；2022；ISBN 978-3-945749-64-7 | https://github.com/javorszky/understanding-privacy-links | 原清单同名匹配待确认 |
+
+| BK181 | The Founder's Dilemmas | Noam Wasserman；创业资源阅读清单引用 | https://github.com/officiallyutso/founder-resources | 书目线索 |
+| BK190 | Designing Data-Intensive Applications | Martin Kleppmann；另有第二版由 Martin Kleppmann 与 Chris Riccomini 合著的项目，须区分版次 | https://github.com/Vonng/ddia | 版本需确认 |
+| BK191 | Designing Machine Learning Systems | Chip Huyen；章节笔记和摘要存在 | https://github.com/millengustavo/ml-books/blob/master/designing-ml-systems/notes.md | 书目线索 |
+| BK201 | The Go-Giver | Bob Burg；书籍笔记索引命中 | https://github.com/ketanarlulkar/Book_Summaries | 书目线索 |
