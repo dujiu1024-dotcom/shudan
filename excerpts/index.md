@@ -14,7 +14,7 @@
 | BK113 | Business Process Change | 三层流程架构等方法 Skill | https://github.com/qa-aman/claude-skills/tree/be4abcc39fc5ee87eb0e52d07ce9b89d777b67d3/skills/by-role/business-analyst/process-mapper |
 | BK114 | Learning to See | 价值流图方法说明与应用资料 | https://github.com/saviranta/know-when-to-ai/blob/8b9f219ef7d04e2a9cde5410d9b838605e7caa5e/docs/tool-value-stream-mapping.md |
 | BK129 | SPIN Selling | SPIN 方法蒸馏及章节数据点 | https://github.com/nex627/mgmt-skill/blob/6689376bdc38aeae690c53458bc991f26cf0430f/distill/sources/rackham-sources.md |
-| BK151 | The Long and the Short of It | Binet & Field 广告效果方法蒸馏 | https://github.com/OfficialNovizio/Agents/blob/6bb251e18a11dcb7ba79dbd7d99b3b599410c277/Teams/Shared%20OS/logical/binet-field-effectiveness.md |
+| BK152 | The Long and the Short of It | Binet & Field 广告效果方法蒸馏 | https://github.com/OfficialNovizio/Agents/blob/6bb251e18a11dcb7ba79dbd7d99b3b599410c277/Teams/Shared%20OS/logical/binet-field-effectiveness.md |
 | BK156 | Business Model Generation | 商业模式画布九要素摘录/知识蒸馏 | https://github.com/nex627/mgmt-skill/blob/6689376bdc38aeae690c53458bc991f26cf0430f/distill/sources/osterwalder-sources.md |
 | BK163 | Monetizing Innovation | 定价创新访谈转录/方法资料 | https://github.com/traversaal-ai/lennyhub-rag/blob/1471464eed0226edbd3d06bb8ef73ba142cab5e7/data/Madhavan%20Ramanujam.txt |
 | BK193 | Site Reliability Engineering | 无责复盘方法摘要 | https://github.com/lyudaio/cheatsheets/blob/6a20cee3238ca1aeacbd4258c930d0fe948b4004/meta/sre.md |
