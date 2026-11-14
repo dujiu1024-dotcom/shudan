@@ -56,3 +56,17 @@
 ## 本轮结论
 
 本轮新增确认可合法复制全文：0。新增可用笔记/摘要/阅读辅助材料：若干，见分类索引。新增元数据和版本线索：若干。若干命中 PDF/EPUB/MOBI 仅为第三方文件存在性线索，未授权状态下不入库。BK031–BK205 尚有大量书目没有形成逐本的高置信结论；本轮不能据此宣布全量检索结束。
+
+
+## 补充检索：BK190–BK205
+
+| ID | 书名 | 命中 | 分类与结论 |
+|---|---|---|---|
+| BK190 | Designing Data-Intensive Applications | 多个仓库存在 PDF 文件线索；多个仓库有章节笔记/摘要；Vonng 仓库提供第二版中文翻译在线阅读入口 | 未授权的第三方 PDF 不复制；笔记与翻译项目单独登记。https://github.com/mayankbaluni/CodeBookShelf/blob/main/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf ; https://github.com/mkassm/designing-data-intensive-applications-notes ; https://github.com/Vonng/ddia |
+| BK191 | Designing Machine Learning Systems | 命中 Chip Huyen 书籍章节笔记/摘要及学习路线 | 读书笔记，不是全文。https://github.com/millengustavo/ml-books/blob/master/designing-ml-systems/notes.md ; https://github.com/djdev/designing-ml-systems-book-summary |
+| BK181 | The Founder's Dilemmas | 多个创业资源阅读清单列出 Noam Wasserman 著作 | 书目元数据，非全文。https://github.com/officiallyutso/founder-resources ; https://github.com/dennybritz/startupreadings |
+| BK184 | Privacy in Context | 命中书目 BibTeX/DOI 信息 | 书目元数据，年份存在 2009/2010 差异，需以所用版本版权页为准。https://github.com/MSKazemi/yazses/blob/main/design/research/hci-corpus.bib |
+| BK185 | Understanding Privacy | 命中 Heather Burns 2022 版书目及脚注链接整理项目 | 书目元数据/阅读辅助，不是全文；原书单是否指该书待确认。https://github.com/javorszky/understanding-privacy-links |
+| BK201 | The Go-Giver | 命中 Bob Burg 书籍笔记索引 | 笔记入口。https://github.com/ketanarlulkar/Book_Summaries |
+
+BK192《The McKinsey Way》、BK193《The Consulting Bible》、BK194《Site Reliability Engineering》、BK195《The Mythical Man-Month》、BK196《How the Mighty Fall》、BK197《Software Estimation》、BK198《The Pragmatic Programmer》、BK199《Give and Take》、BK200《They Ask, You Answer》、BK202《Jab, Jab, Jab, Right Hook》、BK203《Free》、BK204《A Theory of Psychological Reactance》、BK205《Psychological Reactance: A Theory of Freedom and Control》：本轮未获得可确认的精确文件命中；需继续逐本检索，不能将此记录当作“GitHub 不存在”。
