@@ -10,7 +10,7 @@
 | BK067 | In the Blink of an Eye | Walter Murch 六法则知识卡 | https://github.com/easyLong/easy-wiki/blob/7daed86917d9eaef62376ad73ce0a85b5c7a572f/raw/walter-murch-六法则-原文.md |
 | BK068 | Audio-Vision | Michel Chion 术语卡：acousmêtre、synchresis、audio-poetics | https://github.com/ddcat-ai/open-ai-canvas/tree/ac9a1a3328f78811280c7dcc8b61f34321c6ec8a/backend/builtin/视听理论基础 |
 | BK070 | The Technique of Film Editing | 剪辑法则引用与应用资料 | https://github.com/ddcat-ai/open-ai-canvas/tree/ac9a1a3328f78811280c7dcc8b61f34321c6ec8a/backend/builtin/影视剧作工坊 |
-| BK076 | 基本有用的计量经济学 | 配套实验数据和方法数据仓库 | https://github.com/zhaoxiliang/causalinference |
+| BK078 | 基本有用的计量经济学 | 配套实验数据和方法数据仓库 | https://github.com/zhaoxiliang/causalinference |
 | BK112 | Business Process Change | 三层流程架构等方法 Skill | https://github.com/qa-aman/claude-skills/tree/be4abcc39fc5ee87eb0e52d07ce9b89d777b67d3/skills/by-role/business-analyst/process-mapper |
 | BK113 | Learning to See | 价值流图方法说明与应用资料 | https://github.com/saviranta/know-when-to-ai/blob/8b9f219ef7d04e2a9cde5410d9b838605e7caa5e/docs/tool-value-stream-mapping.md |
 | BK128 | SPIN Selling | SPIN 方法蒸馏及章节数据点 | https://github.com/nex627/mgmt-skill/blob/6689376bdc38aeae690c53458bc991f26cf0430f/distill/sources/rackham-sources.md |
