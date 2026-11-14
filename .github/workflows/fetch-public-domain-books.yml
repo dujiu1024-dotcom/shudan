@@ -30,5 +30,6 @@ jobs:
             echo "No new book files to commit."
           else
             git commit -m "Add verified public-domain book texts"
+            git pull --rebase origin main
             git push
           fi
