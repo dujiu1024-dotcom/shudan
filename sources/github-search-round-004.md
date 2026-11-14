@@ -70,3 +70,35 @@
 | BK201 | The Go-Giver | 命中 Bob Burg 书籍笔记索引 | 笔记入口。https://github.com/ketanarlulkar/Book_Summaries |
 
 BK192《The McKinsey Way》、BK193《The Consulting Bible》、BK194《Site Reliability Engineering》、BK195《The Mythical Man-Month》、BK196《How the Mighty Fall》、BK197《Software Estimation》、BK198《The Pragmatic Programmer》、BK199《Give and Take》、BK200《They Ask, You Answer》、BK202《Jab, Jab, Jab, Right Hook》、BK203《Free》、BK204《A Theory of Psychological Reactance》、BK205《Psychological Reactance: A Theory of Freedom and Control》：本轮未获得可确认的精确文件命中；需继续逐本检索，不能将此记录当作“GitHub 不存在”。
+
+
+## 追加检索记录（2026-11-14：逐本复核 BK031–BK050）
+
+| ID | 书名 | GitHub 命中 | 分类与处理 |
+|---|---|---|---|
+| BK031 | Understanding Media: The Extensions of Man | [McLuhan 笔记](https://github.com/band/technosocial-praxis/blob/e03beb9fd24dd2cecb68de3641ea1fdde2ca4d83/notes/20250605%20-%20McLuhan%20Understanding%20Media.md)；[章节材料](https://github.com/jch3xyz/Material-Immaterial---Curatorial-Research-Vault/blob/aade8be218ea9c48cb93c0623b82bc7f302d5195/sources/McLuhan%20-%20Understanding%20Media%20-%2005%20Chapter%202%20-%20Media%20Cold%20and%20Hot.md) | 笔记/章节摘录，非全文 |
+| BK032 | 网络传播概论（第 4 版） | [GitHub 缓存页面](https://github.com/Tkobbqky/wordpress_tushu/blob/979e855118cf2c057b6664eedd1f3e6e945a28b7/Cache/98265105373.md) 出现第三方网盘 PDF 链接 | 疑似全文下载线索；未授权，不复制 |
+| BK033 | Amusing Ourselves to Death | [读书笔记](https://github.com/skellis46/slipbox/blob/89b152cee69b6e8017bca766dc390f138723da99/literature%20notes/Postman%20-%20Amusing%20Ourselves%20to%20Death.md)；[主题笔记](https://github.com/lumensyntax-org/ecclesia/blob/db4ed54e3768e7fbaf023e0b7c73b58cf48d108b/content/CIVILIZATION/Postman%20Amusing%20Ourselves%20to%20Death.md) | 笔记/摘要，非全文 |
+| BK034 | Frame Analysis | 命中概念百科与 Erving Goffman 生平/作品资料，未发现原书文件 | 二手资料/书目元数据 |
+| BK035 | 大众传播理论：范式与流派 | [刘海龙书名条目](https://github.com/isanthree/isanthree.github.io/blob/74a56346212206f9385aad56fedccb839ad63c7b/_posts/2022-10-05-da-zhong-chuan-bo-li-lun.md) 标注 PDF 网盘下载；另有章节目录/书单 | 第三方下载线索未授权；目录/元数据单独登记 |
+| BK036 | Story | 命中 Robert McKee 相关 Agent/结构化方法文件 | 方法蒸馏/知识卡，不是全文 |
+| BK037 | The Hero with a Thousand Faces | [书籍知识页](https://github.com/rao10/casswiki_quartz/blob/f330e3c90441ea5b21519250d0b30d4aeb183c75/content/Books/The%20Hero%20With%20a%20Thousand%20Faces.md)；另有书目索引 | 书籍介绍/笔记，不是全文 |
+| BK038 | 叙事学导论 | 命中学术论文对罗钢《叙事学导论》的页码引用，未找到书籍文件 | 引用/元数据线索 |
+| BK039 | Storynomics | 命中故事营销方法卡与技能文件，未发现原书全文 | 方法卡/摘要，非全文 |
+| BK041 | Морфология сказки（故事形态学） | [记录页](https://github.com/dmarx/nucleation/blob/30afc835a52bd7f78af5e17bd4ed9f0c26b75ba8/record/literature.d/LIT-828.md) 记录读过俄文 1928 初版前言及九章图书馆扫描件 | 阅读记录/版本线索；不是可再分发文件 |
+| BK042 | 金字塔原理 | 此轮精确检索主要命中普通提及和应用文章；旧报告已记录章节摘要/读书笔记线索 | 笔记/应用文章，不是全文 |
+| BK043 | 文案的基本修养 | [读书笔记](https://github.com/hokingyang/learngit/blob/b8e32a0c0372bacebe74b2f45a0bce6554b01f4a/文案的基本修养.md)，注明东东枪著 | 读书笔记，非全文 |
+| BK044 | 文心 | 命中叶圣陶、夏丏尊《文心》的知识摘录/观点笔记，另有目录/书目文本 | 摘录/元数据，不是全文 |
+| BK046 | Reality in Advertising | 命中 Rosser Reeves 人物 Agent 文件，仅提及著作 | 人物资料/书目提及，非全文 |
+| BK047 | How Brands Grow | 命中 Byron Sharp 人物/营销方法 Agent 文件，仅提及著作 | 方法蒸馏/书目提及，非全文 |
+| BK048 | 超级符号就是超级创意 | [华与华营销清单](https://github.com/cnfeat/list-of-good-things/blob/a597cbabcbfe967f43944ecb43183abe2062401c/H%26HMarketingList.md)；[得到解读](https://github.com/uaxe/dedao-docs/blob/0f6de94fa84ffaea7c1f5ad04c7513be97835d12/docs/商业/《超级符号就是超级创意》-%20毛昆仑解读.md) | 读书清单/二手解读，非全文 |
+| BK049 | 抢占心智 | [得到解读](https://github.com/uaxe/dedao-docs/blob/0f6de94fa84ffaea7c1f5ad04c7513be97835d12/docs/商业/《抢占心智》-%20广行解读.md)；另有书单条目 | 二手解读/元数据，非全文 |
+| BK050 | Demand-Side Sales 101 | [视频字幕/转录](https://github.com/VMSTE/startup-data/blob/9da427f2218393158f7c1229203365a4497c376e/data/transcripts/youtube/custdev-jtbd-moesta/Demand-Side%20Sales%20101%20-%20Bob%20Moesta.md) | 视频转录，不是书籍全文 |
+
+### 本次复核结论
+- 新增确认合法完整全文：0。
+- 新增笔记、摘录、方法卡、阅读辅助材料：BK031、BK033、BK036–BK039、BK043–BK044、BK048–BK050。
+- 新增第三方疑似全文下载线索：BK032、BK035；均未确认授权，不复制。
+- 新增版本/阅读记录线索：BK041。
+- 其余条目以二手资料、书目提及或无明确全文命中为主。
+- 本轮未把任何笔记、摘录、视频字幕或二手解读计为完整全文。
