@@ -16,7 +16,7 @@
 | BK034 | Amusing Ourselves to Death | 读书笔记 | https://github.com/skellis46/slipbox/blob/89b152cee69b6e8017bca766dc390f138723da99/literature%20notes/Postman%20-%20Amusing%20Ourselves%20to%20Death.md |
 | BK045 | 文案的基本修养 | 读书笔记 | https://github.com/hokingyang/learngit/blob/b8e32a0c0372bacebe74b2f45a0bce6554b01f4a/文案的基本修养.md |
 | BK077 | 数据思维：从数据分析到商业价值 | 读书笔记 | https://github.com/hokingyang/learngit/blob/b8e32a0c0372bacebe74b2f45a0bce6554b01f4a/数据思维.md |
-| BK092 | 复盘+ | 微信读书笔记 | https://github.com/able8/weread-hot-booklists/blob/466d56a52771f9a06705359a13a27f2efd0a6d21/books/【技能】个人基础能力提升/复盘+：把经验转化为能力（第2版）.md |
+| BK093 | 复盘+ | 微信读书笔记 | https://github.com/able8/weread-hot-booklists/blob/466d56a52771f9a06705359a13a27f2efd0a6d21/books/【技能】个人基础能力提升/复盘+：把经验转化为能力（第2版）.md |
 | BK098 | Contextual Design | 深度书籍报告 | https://github.com/heyixue511-creator/Design-History-new/blob/1a740284d945e5f9de5abf7f914df456c9eea83f/01-book-report/0082%20-%20Contextual%20Design_%20Defining%20Customer-Centered%20Systems%20--%20Beyer,%20Hugh,%20Holtzblatt.深度报告.md |
 | BK103 | The Challenger Sale | 读书笔记 | https://github.com/klaryoflowai/grow/blob/35bb7b6602329bb3f88c38bd6800aa6a1c372a04/00_STRATEGY/Books/The%20Challenger%20Sale%20-%20Notes.md |
 | BK118 | The E-Myth Revisited | 读书摘要 | https://github.com/geobreed/zettelnotes/blob/e399af7d1ed63e33be131a41cfbdc82ed64e8283/summary/(LIT)%20The%20E-Myth%20Revisited.md |
