@@ -1,10 +1,10 @@
 id,title,author,language,edition,full_text_status,rights_status,catalog_url,download_url,repository_path,notes
-BK001,"思考，快与慢 / Thinking, Fast and Slow",,待核验,待核验,未取得授权全文；官方电子书样章/图书馆借阅入口,"Farrar, Straus and Giroux；Google Play 付费电子书及样章；OverDrive 图书馆借阅",https://play.google.com/store/books/details/Thinking_Fast_and_Slow?hl=en&id=ZuKTvERuPG8C,https://princeton.overdrive.com/media/590824,,2011 年版；样章不等于全文；建议借阅/购买后按实际版本引用
-BK002,"Nudge: Improving Decisions about Health, Wealth, and Happiness",,待核验,待核验,未取得授权全文；正式电子书样章/图书馆借阅入口,Yale University Press；Google Play 付费电子书及样章；OverDrive 图书馆借阅,https://yalebooks.co.uk/book/9780300146813/nudge/,https://yale.overdrive.com/media/300593,,2008 年版；样章不等于全文；注意与后续修订版区分
-BK003,The Checklist Manifesto,,待核验,待核验,未取得授权全文；出版社 Look Inside/Google Books 有限预览,Profile Books 官方电子书页面；Google Books 有限预览,https://profilebooks.com/work/the-checklist-manifesto/,https://books.google.com/books?id=7GJi0fsSmUoC,,2010 年版本信息；仅有限预览，不是全文
+BK001,"思考，快与慢 / Thinking, Fast and Slow",,待核验,待核验,未取得授权全文；官方电子书样章/图书馆借阅入口,"Farrar, Straus and Giroux；Google Play 付费电子书及样章；OverDrive 图书馆借阅",https://play.google.com/store/books/details/Thinking_Fast_and_Slow?hl=en&id=ZuKTvERuPG8C,https://princeton.overdrive.com/media/590824,,2011 年版；样章不等于全文；建议借阅/购买后按实际版本引用；GitHub 检索另发现个人摘录/章节片段，详见 sources/github-search-round-001.md，非完整全文
+BK002,"Nudge: Improving Decisions about Health, Wealth, and Happiness",,待核验,待核验,未取得授权全文；正式电子书样章/图书馆借阅入口,Yale University Press；Google Play 付费电子书及样章；OverDrive 图书馆借阅,https://yalebooks.co.uk/book/9780300146813/nudge/,https://yale.overdrive.com/media/300593,,2008 年版；样章不等于全文；注意与后续修订版区分；GitHub 检索发现读书笔记，非完整全文，详见 sources/github-search-round-001.md
+BK003,The Checklist Manifesto,,待核验,待核验,未取得授权全文；出版社 Look Inside/Google Books 有限预览,Profile Books 官方电子书页面；Google Books 有限预览,https://profilebooks.com/work/the-checklist-manifesto/,https://books.google.com/books?id=7GJi0fsSmUoC,,2010 年版本信息；仅有限预览，不是全文；GitHub 检索发现书评/笔记，非完整全文，详见 sources/github-search-round-001.md
 BK004,Judgment in Managerial Decision Making,,待核验,待核验,未检索,未核验,,,,
-BK005,Influence: The Psychology of Persuasion,,待核验,待核验,未取得授权全文；已确认作者官方版本信息,Robert Cialdini 作者官方网站列出 1984 初版及 2021 New and Expanded 版,https://cialdini.com/books/influence,https://cialdini.socialpsychology.org/files,,专题文章/论文不是本书全文；引用时必须注明具体版次
-BK006,Communication and Persuasion,,待核验,待核验,未取得授权全文；馆藏/受控借阅与有限预览可查,Yale University Press 1953 版；Open Library/Internet Archive 馆藏记录；Google Books 片段预览,https://openlibrary.org/books/OL6134640M/Communication_and_persuasion,https://books.google.com/books?id=j_FoAAAAIAAJ,,Carl I. Hovland、Irving L. Janis、Harold H. Kelley 合著；315 页；需借阅/馆藏获取
+BK005,Influence: The Psychology of Persuasion,,待核验,待核验,未取得授权全文；已确认作者官方版本信息,Robert Cialdini 作者官方网站列出 1984 初版及 2021 New and Expanded 版,https://cialdini.com/books/influence,https://cialdini.socialpsychology.org/files,,专题文章/论文不是本书全文；GitHub 检索发现摘录/读书笔记，非完整全文，详见 sources/github-search-round-001.md；引用时必须注明具体版次
+BK006,Communication and Persuasion,,待核验,待核验,未取得授权全文；馆藏/受控借阅与有限预览可查,Yale University Press 1953 版；Open Library/Internet Archive 馆藏记录；Google Books 片段预览,https://openlibrary.org/books/OL6134640M/Communication_and_persuasion,https://books.google.com/books?id=j_FoAAAAIAAJ,,Carl I. Hovland、Irving L. Janis、Harold H. Kelley 合著；315 页；需借阅/馆藏获取；GitHub 检索仅发现相关研究引用和二手资料，未发现可核验全文，详见 sources/github-search-round-001.md
 BK007,宣传：观念、话语及其正当化,,待核验,待核验,未检索,未核验,,,,
 BK008,Yes! 50 Scientifically Proven Ways to Be Persuasive,,待核验,待核验,未检索,未核验,,,,
 BK009,The Dynamics of Persuasion: Communication and Attitudes in the 21st Century,,待核验,待核验,未检索,未核验,,,,
@@ -204,9 +204,3 @@ BK202,"Jab, Jab, Jab, Right Hook",,待核验,待核验,未检索,未核验,,,,
 BK203,Free: The Future of a Radical Price,,待核验,待核验,未检索,未核验,,,,
 BK204,A Theory of Psychological Reactance,,待核验,待核验,未检索,未核验,,,,
 BK205,Psychological Reactance: A Theory of Freedom and Control,,待核验,待核验,未检索,未核验,,,,
-BK206,传习录,王守仁,中文,版本待核验,待核验,待核验,,,,经典原典；现代点校/注释版需单独核验
-BK207,毛泽东选集（第一卷）,毛泽东,中文,版本待核验,待核验,待核验,,,,独立建档；版本、出版社、注释与文本授权待核验
-BK208,毛泽东选集（第二卷）,毛泽东,中文,版本待核验,待核验,待核验,,,,独立建档；版本、出版社、注释与文本授权待核验
-BK209,毛泽东选集（第三卷）,毛泽东,中文,版本待核验,待核验,待核验,,,,独立建档；版本、出版社、注释与文本授权待核验
-BK210,毛泽东选集（第四卷）,毛泽东,中文,版本待核验,待核验,待核验,,,,独立建档；版本、出版社、注释与文本授权待核验
-BK211,毛泽东选集（第五卷）,毛泽东,中文,版本待核验,待核验,待核验,,,,独立建档；版本、出版社、注释与文本授权待核验
