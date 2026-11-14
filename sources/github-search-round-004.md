@@ -168,3 +168,61 @@ BK192《The McKinsey Way》、BK193《The Consulting Bible》、BK194《Site Rel
 - 新增书目元数据/引用：BK069–BK073、BK077–BK082、BK085、BK087、BK089。
 - 第三方疑似全文线索：BK076；未确认授权，不复制。
 - 所有命中均已与完整原书区分，不计入全文入库。
+
+
+## 追加检索记录（2026-11-14：逐本复核 BK091–BK135）
+
+| ID | 书名 | GitHub 命中 | 分类与处理 |
+|---|---|---|---|
+| BK091 | The Fearless Organization | 命中 Amy Edmondson 作品引用和相关组织心理安全文章，未找到原书文件 | 书目/二手研究，不是全文 |
+| BK092 | 复盘+：把经验转化为能力 | [微信读书笔记](https://github.com/able8/weread-hot-booklists/blob/466d56a52771f9a06705359a13a27f2efd0a6d21/books/【技能】个人基础能力提升/复盘+：把经验转化为能力（第2版）.md)；[书籍元数据 JSON](https://github.com/able8/weread-hot-booklists/blob/466d56a52771f9a06705359a13a27f2efd0a6d21/temp/831303-bookinfo.json)，显示邱昭良、第 2 版 | 笔记/元数据，非全文 |
+| BK093 | 丰田生产方式 | 命中大野耐一同名第三方 PDF 下载页面线索；[知识页](https://github.com/cloriselvis/wiki/blob/6e1e9cf524709e3cc74770455c732986e4d3eff9/wiki/books/丰田生产方式.md) | 疑似全文下载线索未授权，不复制；知识页为二手摘要 |
+| BK094 | The Toyota Way | [Jeffrey Liker 读书笔记](https://github.com/aarongilly/notes/blob/1c52141441e9d7f0787edd5c6c9aa4d5f1335f50/content/sources/The%20Toyota%20Way.md)；作者书目页 | 笔记/书目，不是全文 |
+| BK095 | The Mom Test | 命中 Rob Fitzpatrick 专家资料与用户访谈资源，未发现原书文件 | 方法资料/书目，不是全文 |
+| BK096 | Interviewing Users | 命中 Steve Portigal 专家资料、活动文章与研究笔记 | 相关资料/摘录，未发现原书全文 |
+| BK097 | Just Enough Research | 命中 Erika Hall 专家资料和研究笔记，未发现原书文件 | 方法笔记，不是全文 |
+| BK098 | Contextual Design | [书籍深度报告](https://github.com/heyixue511-creator/Design-History-new/blob/1a740284d945e5f9de5abf7f914df456c9eea83f/01-book-report/0082%20-%20Contextual%20Design_%20Defining%20Customer-Centered%20Systems%20--%20Beyer,%20Hugh,%20Holtzblatt.深度报告.md)；[书目记录](https://github.com/kltng/dhq-wiki-site/blob/4437ed77d6620859d7a61f7ef49863d901036319/content/citations/Beyer%20and%20Holtzblatt%201997.md) | 深度报告/书目元数据，非原书 |
+| BK099 | 设计调研 | 命中产品经理学习书单及第三方网盘目录页，未确认原书文件 | 书目/下载线索，非全文 |
+| BK100 | Competing Against Luck | 命中 JTBD 相关知识文章和 Christensen 人物/作品记录 | 二手研究/书目，不是全文 |
+| BK101 | Jobs to be Done: Theory to Practice | 命中 Tony Ulwick 作品时间线及方法研究笔记 | 书目/方法笔记，不是全文 |
+| BK102 | What Customers Want | 命中 Tony Ulwick 人物/方法资料，未找到原书文件 | 二手资料/书目，不是全文 |
+| BK103 | The Challenger Sale | [读书笔记](https://github.com/klaryoflowai/grow/blob/35bb7b6602329bb3f88c38bd6800aa6a1c372a04/00_STRATEGY/Books/The%20Challenger%20Sale%20-%20Notes.md)；另有访谈转录 | 笔记/转录，不是全文 |
+| BK104 | Market Segmentation: Conceptual and Methodological Foundations | 命中 Springer 2000 版书目引用，作者 Wedel、Kamakura | 书目元数据 |
+| BK105 | Marketing Management | 命中 Kotler 2003 版书目/阅读条目及其他版本下载页面 | 版本线索，下载页面不视为授权 |
+| BK106 | Competitive Strategy | 命中 Michael Porter 人物/战略方法 Agent 文件，未发现原书文件 | 方法蒸馏/书目提及 |
+| BK107 | Blue Ocean Strategy | 命中概念知识页和咨询书单，未发现原书全文 | 知识页/书目，不是全文 |
+| BK108 | Play Bigger | 命中书籍视频摘要转录和书评转录 | 视频摘要/转录，不是全文 |
+| BK109 | Competitive Advantage | 精确检索主要命中书目索引/无关匹配，未找到原书文件 | 无可确认全文 |
+| BK110 | 营销的本质 | 精确检索命中通用营销书单，未发现可确认笔记或全文 | 无可确认有效命中 |
+| BK111 | Improving Performance | 命中第二版书目记录和业务架构资料引用 | 书目元数据/研究引用 |
+| BK112 | Business Process Change | 命中基于 Paul Harmon 方法的流程分析 Skill 文件 | 方法蒸馏，不是全文 |
+| BK113 | Learning to See | 命中价值流图工具及方法文档引用 Rother、Shook 1999/2003 版 | 方法应用/书目引用 |
+| BK114 | Market Research in Practice | [第四版书籍摘要](https://github.com/msranj/Test/blob/e1ad72154045883ae634154f616f6db4b696f475/Non-Technical/Notes%20-%20General/Hobbies/Free%20-%20eBook%20Summary/Ebook%20-%20Work/Work%20-%20Market%20Research%20in%20Practice.md)，列出 Paul Hague 等作者 | 摘要/版本元数据，非全文 |
+| BK115 | The Market Research Toolbox | 命中书籍推荐清单及普通书目索引，未发现全文 | 书目元数据 |
+| BK116 | Consumer Behavior: Buying, Having, and Being | 命中经典教材书目，Michael R. Solomon，2018 年第 13 版线索 | 书目元数据 |
+| BK117 | 消费者行为学：中国消费者透视 | 命中第二版书目提及，作者卢泰宏等；需进一步核对版次和 ISBN | 书目元数据 |
+| BK118 | The E-Myth Revisited | [读书摘要/笔记](https://github.com/geobreed/zettelnotes/blob/e399af7d1ed63e33be131a41cfbdc82ed64e8283/summary/(LIT)%20The%20E-Myth%20Revisited.md)，作者 Michael E. Gerber | 摘要/笔记，非全文 |
+| BK119 | The Millionaire Next Door | [简明读书笔记](https://github.com/Lethalz/ZetV2/blob/0c021146884ed37223df45c10ca950c730e67678/Reference/Books/The%20Millionaire%20Next%20Door.md) | 笔记，不是全文 |
+| BK120 | Small Business Management | 命中书名索引/教学资料，未发现可确认书籍文件 | 书目索引，无全文 |
+| BK121 | Predictable Revenue | 精确搜索未找到明确匹配原书文件，主要为“可预测收入”普通用语和无关内容 | 无有效命中 |
+| BK122 | The Sales Acceleration Formula | 命中 Mark Roberge 人物资料及作品书目 | 书目元数据，不是全文 |
+| BK123 | 阿里铁军销售课 | 命中电子书目录/书单中的相邻营销书籍，未找到明确同名笔记或文件 | 无有效命中 |
+| BK124 | 运营之光 | [读书笔记](https://github.com/chess99/ai-reading/blob/434b6efd9bb5b0a2e25afb88319573aba05e9f83/books/商业产品/市场增长/黄有璨-运营之光.md) | 笔记，不是全文 |
+| BK125 | Building a StoryBrand | 命中 Donald Miller 人物/方法 Agent 文件，提及 SB7 框架 | 方法蒸馏/书目提及，不是全文 |
+| BK126 | This Is Marketing | 命中 Seth Godin 作品列表与营销观点资料 | 书目/观点资料，不是全文 |
+| BK127 | 增长黑客：如何低成本实现爆发式成长 | 命中营销书单，未发现精确笔记文件；既有报告已有知识图谱/章节结构线索 | 书单/章节结构，不是全文 |
+| BK128 | SPIN Selling | 命中 Neil Rackham 方法蒸馏与结构化摘要文件 | 方法摘要/知识蒸馏，不是全文 |
+| BK129 | Getting to Yes | [谈判框架示例](https://github.com/deciqAI/knowledge-skills/blob/01dcc466b2367c317752693419c1fad70824dbe4/batna-zopa/examples/fisher-and-ury-1981-the-harvard-negotiation-project.md)；[读书笔记仓库](https://github.com/mgp/book-notes) | 方法摘录/笔记，不是全文 |
+| BK130 | Never Split the Difference | [读书页面](https://github.com/benhowes/benhowes.github.io/blob/f7d3c8f62953646ea30e3cb3b32fae282148d014/_books/Voss-Raz-Never%20Split%20the%20Difference.md)；另有 Chris Voss 方法资料 | 阅读记录/方法资料，非全文 |
+| BK131 | The Trusted Advisor | 命中 David Maister 人物与作品引用 | 书目/人物资料 |
+| BK132 | The Win Without Pitching Manifesto | 命中 Blair Enns 官方宣言链接及咨询提案资料 | 官方资源入口/二手引用 |
+| BK133 | Pricing Creativity | 命中服务定价知识卡与 Blair Enns 方法引用 | 方法卡，不是全文 |
+| BK134 | Million Dollar Consulting | 命中咨询书单、播客转录中提及 Alan Weiss 及该书 | 书目/访谈提及，不是全文 |
+| BK135 | User Story Mapping | 命中 Jeff Patton 人物资料与方法分析文件 | 方法蒸馏/书目资料，不是全文 |
+
+### 本次复核结论
+- 新增确认合法完整全文：0。
+- 笔记/摘要/方法蒸馏/知识页：BK092、BK094–BK103、BK107–BK108、BK112–BK114、BK118–BK119、BK124–BK130、BK132–BK135。
+- 书目元数据/版本线索：BK092、BK104–BK106、BK111、BK115–BK117、BK120、BK122、BK126、BK131、BK134。
+- 疑似第三方下载线索：BK093、BK099、BK105；未确认许可，不复制。
+- 无明确匹配：BK110、BK121、BK123。
