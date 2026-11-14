@@ -28,9 +28,9 @@
 ## 当前采集状态
 
 - 已将 211 本书导入采集台账。
-- 已匹配到 5 本可从 Project Gutenberg 获取的英文版本：The Crowd、The Theory of the Leisure Class、The Expression of the Emotions in Man and Animals、Public Opinion、The Elements of Style。
-- 已配置 GitHub Actions：书目清单更新后自动尝试下载上述 5 本，并将文本与下载元数据提交回仓库。
-- 自动下载结果以 Actions 实际运行和仓库文件为准；目前不能将“已发现下载入口”计为“全文已入库”。
+- 已完成 5 本英文全文采集并入库：The Crowd、The Theory of the Leisure Class、The Expression of the Emotions in Man and Animals、Public Opinion、The Elements of Style。五个文本均已下载，采集元数据记录了来源、字节数和版本说明。
+- 五本均为 Project Gutenberg 所列美国公版版本；仓库记录同时要求读者自行核验所在地法律，尤其注意《The Crowd》的英译本和《The Elements of Style》的早期版本边界。
+- GitHub Actions 已配置为书目清单更新时自动尝试同步这五本公开文本。
 - 其余书目正在逐本核查作者、版本、开放许可和正式获取渠道。
 
 ## 采集流程
