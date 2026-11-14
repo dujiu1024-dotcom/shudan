@@ -102,3 +102,31 @@ BK192《The McKinsey Way》、BK193《The Consulting Bible》、BK194《Site Rel
 - 新增版本/阅读记录线索：BK041。
 - 其余条目以二手资料、书目提及或无明确全文命中为主。
 - 本轮未把任何笔记、摘录、视频字幕或二手解读计为完整全文。
+
+
+## 追加检索记录（2026-11-14：逐本复核 BK051–BK065）
+
+| ID | 书名 | GitHub 命中 | 分类与处理 |
+|---|---|---|---|
+| BK051 | The Attention Merchants | 命中 Tim Wu 人物/观点资料及书籍评论页面 | 书目/评论，不是全文 |
+| BK052 | The Attention Economy | 命中其他“注意力经济”书籍/主题资料，未找到明确匹配原书文件 | 无可确认全文；主题资料 |
+| BK053 | TED Talks: The Official TED Guide to Public Speaking | 命中演讲资源书单，作者 Chris Anderson；旧报告另记录同名 PDF 文件线索 | 书目元数据；PDF 未授权，不复制 |
+| BK054 | Talk Like TED | 命中读书笔记/阅读记录，Carmine Gallo | 笔记/阅读记录，不是全文 |
+| BK055 | 播音发声学 | 精确搜索未发现可确认书籍文件；命中课程表及无关网盘缓存 | 无有效全文命中 |
+| BK056 | The Science of Storytelling | [Will Storr 读书笔记](https://github.com/aneurokumar/website/blob/b211fb5ac025dc5080630736d3c9292fd21df075/content/Book%20Notes/The%20Science%20of%20Storytelling%20by%20Will%20Storr.md)；[另一份阅读笔记](https://github.com/skellis46/slipbox/blob/89b152cee69b6e8017bca766dc390f138723da99/literature%20notes/Storr%20-%20The%20Science%20of%20Storytelling.md) | 笔记/摘录，非全文 |
+| BK057 | NHK ことばのハンドブック | 精确日文书名检索无命中 | 暂无有效命中 |
+| BK058 | Film Art: An Introduction | 命中书目引用与书名清单，含 David Bordwell、Kristin Thompson、2013 年第 10 版线索 | 书目元数据，非全文 |
+| BK059 | Film Directing Shot by Shot | [读书笔记](https://github.com/ejfox/website/blob/377f4ef074542a2710a3767d291d32ca8d27fcbf/content/reading/Katz-Film%20Directing%20Shot%20by%20Shot.md) | 笔记/阅读记录，非全文 |
+| BK060 | The Grammar of the Film Language | 精确检索命中一般性提及和其他书目，没有明确对应文件 | 无有效全文命中 |
+| BK061 | The Visual Story | 命中 Bruce Block 书籍元数据/作品资料及相关书目 | 元数据/阅读辅助，不是全文 |
+| BK062 | 电影摄影画面创作 | 命中豆瓣书目数据及第三方文件索引，但未确认原书文件 | 书目元数据/未核实文件线索 |
+| BK063 | 映像の原則 | 命中 Bangumi 书目条目及无关日文文本 | 书目元数据，无全文 |
+| BK064 | Film als Kunst | 命中 Rudolf Arnheim 书目/学术参考文献 | 书目元数据，无全文 |
+| BK065 | In the Blink of an Eye | 命中 Walter Murch 剪辑“六法则”的知识卡/方法蒸馏 | 摘录/方法卡，不是全文 |
+
+### 本次复核结论
+- 新增确认合法完整全文：0。
+- 新增笔记/阅读辅助/方法蒸馏：BK054、BK056、BK059、BK065。
+- 新增书目元数据：BK051、BK053、BK058、BK061–BK064。
+- 暂无有效命中：BK055、BK057、BK060；BK052 仅主题资料。
+- 所有条目仍严格区分原书全文与笔记、摘录、书目数据。
