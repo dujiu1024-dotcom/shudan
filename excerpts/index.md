@@ -12,7 +12,7 @@
 | BK070 | The Technique of Film Editing | 剪辑法则引用与应用资料 | https://github.com/ddcat-ai/open-ai-canvas/tree/ac9a1a3328f78811280c7dcc8b61f34321c6ec8a/backend/builtin/影视剧作工坊 |
 | BK078 | 基本有用的计量经济学 | 配套实验数据和方法数据仓库 | https://github.com/zhaoxiliang/causalinference |
 | BK113 | Business Process Change | 三层流程架构等方法 Skill | https://github.com/qa-aman/claude-skills/tree/be4abcc39fc5ee87eb0e52d07ce9b89d777b67d3/skills/by-role/business-analyst/process-mapper |
-| BK113 | Learning to See | 价值流图方法说明与应用资料 | https://github.com/saviranta/know-when-to-ai/blob/8b9f219ef7d04e2a9cde5410d9b838605e7caa5e/docs/tool-value-stream-mapping.md |
+| BK114 | Learning to See | 价值流图方法说明与应用资料 | https://github.com/saviranta/know-when-to-ai/blob/8b9f219ef7d04e2a9cde5410d9b838605e7caa5e/docs/tool-value-stream-mapping.md |
 | BK128 | SPIN Selling | SPIN 方法蒸馏及章节数据点 | https://github.com/nex627/mgmt-skill/blob/6689376bdc38aeae690c53458bc991f26cf0430f/distill/sources/rackham-sources.md |
 | BK151 | The Long and the Short of It | Binet & Field 广告效果方法蒸馏 | https://github.com/OfficialNovizio/Agents/blob/6bb251e18a11dcb7ba79dbd7d99b3b599410c277/Teams/Shared%20OS/logical/binet-field-effectiveness.md |
 | BK156 | Business Model Generation | 商业模式画布九要素摘录/知识蒸馏 | https://github.com/nex627/mgmt-skill/blob/6689376bdc38aeae690c53458bc991f26cf0430f/distill/sources/osterwalder-sources.md |
