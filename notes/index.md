@@ -28,4 +28,12 @@
 | BK194 | Site Reliability Engineering | 读书笔记 | https://github.com/lorin/booknotes/blob/8de8dabe7c918e688720e2f862efa4120f36c272/Google-SRE.md |
 | BK199 | Give and Take | 章节笔记 | https://github.com/ibrahim0814/books/blob/f16f7a60817faa49fe4e22ce4cacd8cecebd19e1/Give%20and%20Take%20by%20Adam%20Grant/README.md |
 
+| BK044 | The Elements of Style | 第四版读书笔记（Strunk & White；与仓库已入库的早期 Strunk 单作者文本版本不同） | https://github.com/mgp/book-notes/blob/2f9287690310dd9801fec6105acaf274d76b6678/elements-of-style.markdown |
+
+| BK130 | Getting to Yes: Negotiating Agreement Without Giving In | 分章节读书笔记（Roger Fisher、William Ury） | https://github.com/mgp/book-notes/blob/2f9287690310dd9801fec6105acaf274d76b6678/getting-to-yes-negotiating-agreement-without-giving-in.markdown |
+
+| BK131 | Never Split the Difference | 分章节读书笔记（Chris Voss） | https://github.com/mgp/book-notes/blob/2f9287690310dd9801fec6105acaf274d76b6678/never-split-the-difference.markdown |
+
+| BK195 | The Mythical Man-Month | 分章节读书笔记与页码摘录（Frederick P. Brooks Jr.） | https://github.com/mgp/book-notes/blob/2f9287690310dd9801fec6105acaf274d76b6678/the-mythical-man-month.markdown |
+
 完整逐本检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
