@@ -36,4 +36,8 @@
 
 | BK195 | The Mythical Man-Month | 分章节读书笔记与页码摘录（Frederick P. Brooks Jr.） | https://github.com/mgp/book-notes/blob/2f9287690310dd9801fec6105acaf274d76b6678/the-mythical-man-month.markdown |
 
+| BK004 | Judgment in Managerial Decision Making | 第 8 版第 12 章学习资料（SOA CP311 Study Note；不是全书笔记） | https://github.com/ActuarialNotes/Actuarial-Notes-Wiki/blob/41ed62d48098e2f8d6ec68c43a69d2d9e8b5f9cd/Resources/Books/CP311-113-26%20-%20Bazerman%20%26%20Moore.md |
+
+| BK055 | TED Talks: The Official TED Guide to Public Speaking | 书评（Chris J. Anderson；2016-12-02） | https://github.com/crocidb/feeds/blob/9cfd59d7c13afc084b0b3c369e8ebef6854532d8/library/categories/Programming/pothix/review-of-ted-talks-the-official-ted-guide-to-public-speaking.md |
+
 完整逐本检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
