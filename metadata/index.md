@@ -32,4 +32,6 @@
 
 | BK054 | The Attention Economy: Understanding the New Currency of Business | Thomas H. Davenport、John C. Beck；Harvard Business School Press；2001；255 页；ISBN 157851441X（书目条目同时链接 O’Reilly 与 Google Books，仍建议权威目录复核） | https://github.com/lossless-group/lossless-content/blob/19c25643a74122f353d5f9c1217c8937da41e006/sources/Books/The%20Attention%20Economy%20(Book).md |
 
+| BK056 | Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds | Carmine Gallo；St. Martin's Griffin；GitHub 阅读条目日期 2021-08-01，仅含书名、作者、出版社、购买链接和封面，无阅读评论/摘要；按元数据线索登记 | https://github.com/ruralocity/aaronsumner.com/blob/main/_reading/2021-08-01-talk-like-ted-the-9-public-speaking-secrets-of-the-worlds-top-minds-carmine-gallo.html.markdown |
+
 完整检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
