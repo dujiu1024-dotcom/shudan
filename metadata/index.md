@@ -28,4 +28,8 @@
 | BK020 | La Distinction: Critique sociale du jugement | 法文版 1979；英译本 *Distinction: A Social Critique of the Judgement of Taste*，Richard Nice 译，Harvard University Press，1984；ISBN 0-674-21277-0。来源为 GitHub 深度分析报告，二手线索，需出版社目录复核 | https://github.com/heyixue511-creator/Art-public1/blob/8f2a0e5887aa59f70eee5b5670400e2bf47ac93e/深度分析报告/03_Bourdieu_Distinction_深度分析报告.md |
 | BK034 | Amusing Ourselves to Death | Neil Postman；Penguin 2005 版；250 页；ISBN 9780143036531。该线索对应后续版，不等同于 1985 年初版，需按实际使用版本核对 | https://github.com/clarkkristofor/quartzsite/blob/1cedadf5d626145ea061b136963806b25a378c61/content/Books/Amusing%20Ourselves%20to%20Death%20-%20Neil%20Postman.md |
 
+| BK037 | Story: Substance, Structure, Style and the Principles of Screenwriting | Robert McKee；1997 年出版。GitHub 条目仅提供引用与二手描述，需出版社目录核对具体版次/ISBN | https://github.com/ambrecht/ambrecht2023/blob/8e1cde0ff264a89ac78f175e4bc60ecf2604e6e7/app/mdfiles/1997-Story_Substance_Structure_Style_and_the_Principles_of_Screenwriting-Robert_McKee.md |
+
+| BK054 | The Attention Economy: Understanding the New Currency of Business | Thomas H. Davenport、John C. Beck；Harvard Business School Press；2001；255 页；ISBN 157851441X（书目条目同时链接 O’Reilly 与 Google Books，仍建议权威目录复核） | https://github.com/lossless-group/lossless-content/blob/19c25643a74122f353d5f9c1217c8937da41e006/sources/Books/The%20Attention%20Economy%20(Book).md |
+
 完整检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
