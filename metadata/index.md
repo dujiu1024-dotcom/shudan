@@ -25,4 +25,7 @@
 | BK192 | The McKinsey Way | Ethan M. Rasiel；McGraw-Hill | https://github.com/a5c-ai/babysitter/blob/feb68abe397acc14f32b34984975c48fedba2b33/library/specializations/domains/business/business-analysis/references.md |
 | BK205 | Psychological Reactance: A Theory of Freedom and Control | Brehm & Brehm；Academic Press，1981；ISBN 012129840X。与 BK204《A Theory of Psychological Reactance》（1966）是不同著作 | https://github.com/bahattinyunus/inanc-egitim-diyalektigi/blob/3b842d91a71712fdccac7b8e67e3b425eb5303af/docs/kaynaklar/REFERENCES.md |
 
+| BK020 | La Distinction: Critique sociale du jugement | 法文版 1979；英译本 *Distinction: A Social Critique of the Judgement of Taste*，Richard Nice 译，Harvard University Press，1984；ISBN 0-674-21277-0。来源为 GitHub 深度分析报告，二手线索，需出版社目录复核 | https://github.com/heyixue511-creator/Art-public1/blob/8f2a0e5887aa59f70eee5b5670400e2bf47ac93e/深度分析报告/03_Bourdieu_Distinction_深度分析报告.md |
+| BK034 | Amusing Ourselves to Death | Neil Postman；Penguin 2005 版；250 页；ISBN 9780143036531。该线索对应后续版，不等同于 1985 年初版，需按实际使用版本核对 | https://github.com/clarkkristofor/quartzsite/blob/1cedadf5d626145ea061b136963806b25a378c61/content/Books/Amusing%20Ourselves%20to%20Death%20-%20Neil%20Postman.md |
+
 完整检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
