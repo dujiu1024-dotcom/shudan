@@ -40,4 +40,17 @@
 
 | BK055 | TED Talks: The Official TED Guide to Public Speaking | 书评（Chris J. Anderson；2016-12-02） | https://github.com/crocidb/feeds/blob/9cfd59d7c13afc084b0b3c369e8ebef6854532d8/library/categories/Programming/pothix/review-of-ted-talks-the-official-ted-guide-to-public-speaking.md |
 
+| BK036 | 大众传播理论：范式与流派 | 传播学理论知识笔记（16 篇；基于教材、经典原著、讲座字幕与案例；非原书） | https://github.com/bai698304/encyclopaedia/blob/7947db8d880bdfc1b7d45522acec0873e8b9bc7c/传播学笔记/README.md |
+| BK049 | How Brands Grow | 第二版章节级摘要（约 27.4 万字符；来源标注第二版，作者/版本未独立核验） | https://github.com/utekos-brand/ebm/blob/fbb4c8a02525c09383bb70c481577e04972d10ee/How%20Brands%20Grow.md |
+| BK050 | 超级符号就是超级创意 | 读书笔记与案例摘要（文件标注 2026-05-26） | https://github.com/chess99/ai-reading/blob/434b6efd9bb5b0a2e25afb88319573aba05e9f83/books/商业产品/市场增长/华杉%20华楠-超级符号就是超级创意.md |
+| BK051 | 抢占心智 | 得到《每天听本书》音频解读转写/摘要；非原书，内容授权未核实 | https://github.com/uaxe/dedao-docs/blob/0f6de94fa84ffaea7c1f5ad04c7513be97835d12/docs/商业/《抢占心智》-%20广行解读.md |
+| BK056 | Talk Like TED | 分章节读书笔记（Carmine Gallo） | https://github.com/mgp/book-notes/blob/2f9287690310dd9801fec6105acaf274d76b6678/talk-like-ted.markdown |
+| BK078 | 基本有用的计量经济学 | 阅读笔记（因果推断、潜在结果、随机化实验等；与既有实验数据仓库分开） | https://github.com/FinneasY/FinneasY.github.io/blob/c31799c35612bb4be2dfe3dcc26e989efabefa8c/source/_posts/阅读笔记｜基本有用的计量经济学.md |
+| BK109 | Play Bigger | 前两章读书笔记（品类创造与品类战略） | https://github.com/christopherdurr/booknotes/blob/b5c6dd55e9b30fb07f3aa01bbf87e94da6f2ee64/playbigger.md |
+| BK120 | The Millionaire Next Door | 精简读书笔记（财富积累、PAW/UAW 等） | https://github.com/Lethalz/ZetV2/blob/0c021146884ed37223df45c10ca950c730e67678/Reference/Books/The%20Millionaire%20Next%20Door.md |
+| BK149 | The Cold Start Problem | 书评/阅读摘要（《科技爱好者周刊》第 347 期） | https://github.com/ruanyf/weekly/blob/36caf847da5a8bc6cf402b03f767b2edc8abcfa1/docs/issue-347.md |
+| BK160 | Built to Sell | 第三方书籍概要/主题摘要；非逐章读书笔记 | https://github.com/ever-works/awesome-startup-books/blob/7e30a0a712794ebeac82bfa8e082e0e74c292c01/details/built-to-sell.md |
+| BK169 | 一本书读懂财报 | 读书笔记（第三版，2022） | https://github.com/digoal/blog/blob/82845b8bc271aaf5dd3aeb162585b1d3293b9a88/202605/20260524_10.md |
+| BK178 | 肖星的财务思维课 | 长篇读书笔记（采购、成本、薪酬、资产、报表与现金流） | https://github.com/zhangjunhd/reading-notes/blob/dec6f439c1b07121bd3ca11585ecd1c1e501a4c3/invest/xx.md |
+| BK179 | Small Giants | 第三方书籍概要/主题摘要；非逐章读书笔记 | https://github.com/ever-works/awesome-startup-books/blob/7e30a0a712794ebeac82bfa8e082e0e74c292c01/details/small-giants.md |
 完整逐本检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
