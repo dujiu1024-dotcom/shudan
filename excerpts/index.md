@@ -22,4 +22,6 @@
 
 视频转录/播客内容如 BK050、BK108、BK179、BK199 按二手材料管理，不归类为原书摘录。
 
+| BK058 | The Science of Storytelling | 文学笔记，含多处直接引文与概念摘录；不是原书全文 | https://github.com/skellis46/slipbox/blob/047fd2016339b214f2ad5bbef4cc7a5cf782fc96/literature%20notes/Storr%20-%20The%20Science%20of%20Storytelling.md |
+| BK061 | Film Directing Shot by Shot | Kindle 单条高亮摘录（1 条）；不是完整读书笔记 | https://github.com/ejfox/website/blob/377f4ef074542a2710a3767d291d32ca8d27fcbf/content/reading/Katz-Film%20Directing%20Shot%20by%20Shot.md |
 完整检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
