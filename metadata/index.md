@@ -34,4 +34,14 @@
 
 | BK056 | Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds | Carmine Gallo；St. Martin's Griffin；GitHub 阅读条目日期 2021-08-01，仅含书名、作者、出版社、购买链接和封面，无阅读评论/摘要；按元数据线索登记 | https://github.com/ruralocity/aaronsumner.com/blob/main/_reading/2021-08-01-talk-like-ted-the-9-public-speaking-secrets-of-the-worlds-top-minds-carmine-gallo.html.markdown |
 
+| BK014 | When Prophecy Fails | Leon Festinger、Henry W. Riecken、Stanley Schachter；1956 年。来源是语料库中的百科式二手概述，不是原书；出版社/ISBN待核对 | https://github.com/flaxsearch/clade/blob/85e03b1b971f2ac7ce17a1fbd8146cc6dbf2fbca/data/socpsy-pages/When%20Prophecy%20Fails |
+| BK050 | 超级符号就是超级创意 | 华杉、华楠；来自读书笔记署名；版次、出版社、出版年、ISBN未核实 | https://github.com/chess99/ai-reading/blob/434b6efd9bb5b0a2e25afb88319573aba05e9f83/books/商业产品/市场增长/华杉%20华楠-超级符号就是超级创意.md |
+| BK051 | 抢占心智 | 江南春；来自音频解读页；出版社、版次、出版年、ISBN未核实 | https://github.com/uaxe/dedao-docs/blob/0f6de94fa84ffaea7c1f5ad04c7513be97835d12/docs/商业/《抢占心智》-%20广行解读.md |
+| BK061 | Film Directing Shot by Shot | Steven D. Katz；Kindle 元数据含 ASIN B00570IROE；ISBN/版次未核实 | https://github.com/ejfox/website/blob/377f4ef074542a2710a3767d291d32ca8d27fcbf/content/reading/Katz-Film%20Directing%20Shot%20by%20Shot.md |
+| BK149 | The Cold Start Problem | Andrew Chen；2021 年为交叉书目线索；出版社、版次、ISBN待权威目录核验 | https://github.com/ruanyf/weekly/blob/36caf847da5a8bc6cf402b03f767b2edc8abcfa1/docs/issue-347.md |
+| BK160 | Built to Sell: Creating a Business That Can Thrive Without You | John Warrillow；来源标注 2010-02-01、176 页；二手书籍概要，出版社/ISBN未核实 | https://github.com/ever-works/awesome-startup-books/blob/7e30a0a712794ebeac82bfa8e082e0e74c292c01/details/built-to-sell.md |
+| BK168 | Financial Intelligence: A Manager's Guide to Knowing What the Numbers Really Mean | 来源列 Karen Berman、Joe Knight；可能存在其他贡献者，出版年/出版社/版次/ISBN未核实 | https://github.com/ever-works/awesome-startup-books/blob/7e30a0a712794ebeac82bfa8e082e0e74c292c01/details/financial-intelligence.md |
+| BK169 | 一本书读懂财报 | 肖星；第三版，2022 年；笔记未提供出版社/ISBN，待权威目录核对 | https://github.com/digoal/blog/blob/82845b8bc271aaf5dd3aeb162585b1d3293b9a88/202605/20260524_10.md |
+| BK178 | 肖星的财务思维课 | 肖星；机械工业出版社；2020-04；320 页；ISBN 9787111651666；副标题《看懂财富流转的规律》 | https://github.com/zhangjunhd/reading-notes/blob/dec6f439c1b07121bd3ca11585ecd1c1e501a4c3/invest/xx.md |
+| BK190 | Designing Data-Intensive Applications | Martin Kleppmann、Chris Riccomini；第二版中文译本，译者冯若航；O'Reilly 出版社链接含 ISBN 9781098119058。仓库标 CC BY 4.0，但原作及译文再分发授权未确认 | https://github.com/Vonng/ddia/blob/bd8ef56e032f57184080d1418d8d9ae8dc3d483c/README.md |
 完整检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
