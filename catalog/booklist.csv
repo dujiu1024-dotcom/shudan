@@ -189,7 +189,7 @@ BK187,知识产权法教程,,待核验,待核验,未检索,未核验,,,,
 BK188,Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture,Lawrence Lessig,en,2004 edition,已下载并入库；CC BY-NC 1.0,作者官方页面允许非商业复制并要求署名；本 PDF 首页标注 CC BY-NC 1.0,https://lessig.org/product/free-culture/,https://archive.org/download/free_culture/freeculture.pdf,books/pdf/free-culture-lawrence-lessig.pdf,保留 Lawrence Lessig 署名；仅限非商业使用
 BK189,"Ongoing Crisis Communication: Planning, Managing, and Responding",W. Timothy Coombs,en,6th edition；SAGE Publications，2021；ISBN 9781071816646,未发现可再分发全文；仅确认书目引用,未核验,,,,元数据来源：https://github.com/gvwilson/thirdbit/blob/1d24cedd0c30a88af9690076b8cfa9b5739bee99/src/2026/04/08/lessons-from-crisis.md；书目列出第6版、SAGE、2021、ISBN 9781071816646。
 BK190,Designing Data-Intensive Applications,Martin Kleppmann; Chris Riccomini,zh-CN,第二版中文译本,发现第二版完整中文译本线上阅读/仓库；未镜像，原作及译文再分发权未核实,仓库 LICENSE 标注 CC BY 4.0，但原作/翻译权利未独立确认；Issue #18 提示仅供交流学习并要求24小时内删除；不复制、不再分发,https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/ch01.html,,,发现第二版中文译本线上全文线索，未镜像；授权待核实：https://github.com/Vonng/ddia/tree/bd8ef56e032f57184080d1418d8d9ae8dc3d483c/content
-BK191,Designing Machine Learning Systems,Chip Huyen,en,O'Reilly 2022；简体中文版：中国电力出版社，2024-04-30，ISBN 9787519886288,未检索,未核验,,,,原版元数据沿用既有记录；新增作者官方翻译页，列出简体中文版《机器学习系统设计》、中国电力出版社、2024-04-30、ISBN 9787519886288：https://github.com/chiphuyen/dmls-book/blob/b9d1d085d121ec582ae2a41807b8b446d62492df/translations.md。
+BK191,Designing Machine Learning Systems,Chip Huyen,en,O'Reilly 2022；简体中文版：中国电力出版社，2024-04-30，ISBN 9787519886288,未发现可再分发全文；本轮仅补充官方翻译版本元数据,未核验,,,,原版元数据沿用既有记录；新增作者官方翻译页，列出简体中文版《机器学习系统设计》、中国电力出版社、2024-04-30、ISBN 9787519886288：https://github.com/chiphuyen/dmls-book/blob/b9d1d085d121ec582ae2a41807b8b446d62492df/translations.md。
 BK192,The McKinsey Way,,待核验,待核验,未检索,未核验,,,,
 BK193,The Consulting Bible,,待核验,待核验,未检索,未核验,,,,
 BK194,Site Reliability Engineering（第 15 章：无责复盘）,,待核验,待核验,未检索,未核验,,,,
@@ -197,7 +197,7 @@ BK195,The Mythical Man-Month: Essays on Software Engineering,,待核验,待核�
 BK196,How the Mighty Fall: And Why Some Companies Never Give In,,待核验,待核验,未检索,未核验,,,,
 BK197,Software Estimation: Demystifying the Black Art,,待核验,待核验,未检索,未核验,,,,
 BK198,The Pragmatic Programmer: Your Journey to Mastery,,待核验,待核验,未检索,未核验,,,,
-BK199,Give and Take: A Revolutionary Approach to Success,,待核验,待核验,未检索,未核验,,,,
+BK199,Give and Take: A Revolutionary Approach to Success,,待核验,待核验,未发现可再分发全文；已登记两份独立读书笔记,未核验,,,,新增独立读书总结：https://github.com/rwieruch/blog_robinwieruch_content/blob/835c4cb7173621a1833a62940d32458855c4a8b9/blog/lessons-learned-give-and-take/index.md；仓库根目录未见 LICENSE，仅读取索引，不复制。
 BK200,They Ask, You Answer,,待核验,待核验,未检索,未核验,,,
 BK201,The Go-Giver,Bob Burg,en,待核验,未发现可再分发全文；新增内容简介/五大法则摘要,未核验,https://github.com/SamuelMaldonado023/4997project_c/blob/6242546f53dad9c70d2c65aa77df4d95e4d84947/books_description_files/The%20Go-Giver.txt,,,新增约1KB内容简介与五大成功法则摘要：https://github.com/SamuelMaldonado023/4997project_c/blob/6242546f53dad9c70d2c65aa77df4d95e4d84947/books_description_files/The%20Go-Giver.txt；仓库根目录未见 LICENSE；仅索引，不复制。
 BK202,"Jab, Jab, Jab, Right Hook",,待核验,待核验,未检索,未核验,,,,
