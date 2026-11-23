@@ -14,7 +14,7 @@ BK012,现代社会心理学,,待核验,待核验,书名存在版本/作者歧义
 BK013,A Theory of Cognitive Dissonance,,待核验,待核验,部分章节公开；完整正文需机构/付费访问,Stanford University Press / De Gruyter Brill 正式电子版；章节下载受访问权限控制,https://www.degruyterbrill.com/document/doi/10.1515/9781503620766/html,,,1957 原版；官网列出完整目录与页码，前言/序言/目录可公开下载，正文各章要求认证。不可将公开目录误记为全文。
 BK014,When Prophecy Fails,Leon Festinger; Henry W. Riecken; Stanley Schachter,en,1956 first edition (secondary source; verify),未取得授权全文；本轮仅发现百科式二手概述，不是原书,版权状态未核实；Open Library 列出借阅/预览状态,https://openlibrary.org/books/OL24223779M/When_prophecy_fails,,,1956 年初版条目；可查看目录和馆藏/借阅状态。网上第三方 PDF 未能确认授权，不入库。；二手概述/元数据线索：https://github.com/flaxsearch/clade/blob/85e03b1b971f2ac7ce17a1fbd8146cc6dbf2fbca/data/socpsy-pages/When%20Prophecy%20Fails
 BK015,Misbehaving: The Making of Behavioral Economics,,待核验,待核验,GitHub 命中书籍报告与读书笔记；非完整原书,版权/再分发许可未核实；不复制笔记冒充全文,,,,笔记：https://github.com/bagrounds/obsidian-github-publisher-sync/blob/55c6adb770fbfe80e7d04a58bdd3ee8139125a7c/content/books/misbehaving-the-making-of-behavioral-economics.md；检索记录见 sources/github-search-round-002.md
-BK016,Exchange and Power in Social Life,,待核验,待核验,未检索,未核验,,,,
+BK016,Exchange and Power in Social Life,,en,"Wiley, 1964（来源 README 书目线索；作者拼写疑似错误）","发现 GitHub PDF 文件（21,517,095 bytes）；二进制未读取，完整性/版本未验证",仓库根目录未见 LICENSE/COPYING；未见权利人再分发授权；版权状态不明，不复制,https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/blob/9a08660cca83e6fce5cbfd7ba315f176f9f8336b/21%20emotions%20in%20exchange%20theory/Exchange%20and%20Power%20in%20Social%20Life.pdf,https://raw.githubusercontent.com/DeSociologue/Sociology-of-Emotions-Reading-List/9a08660cca83e6fce5cbfd7ba315f176f9f8336b/21%20emotions%20in%20exchange%20theory/Exchange%20and%20Power%20in%20Social%20Life.pdf,,"commit=9a08660cca83e6fce5cbfd7ba315f176f9f8336b；path=21 emotions in exchange theory/Exchange and Power in Social Life.pdf；blob=f84267d180e2a9ef36913d41d6db904a45dd9174；README 将作者写作“Balu, P.”，与通行书目拼写不一致；未读取 PDF 二进制，不确认内容完整性。"
 BK017,Essai sur le don（礼物）,,待核验,待核验,未检索,未核验,,,,
 BK018,乡土中国,,待核验,待核验,出版社样章/正版版本可查；未取得授权全文,现代出版版本及整理内容版权待核验,https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=666731b674ce561611bda00e,,,费孝通著；出版社页面提供目录和样章信息，非完整全文。建议论文引用时明确采用版本及页码。
 BK019,The Theory of the Leisure Class,Thorstein Veblen,en,1899 English original,已下载并入库,Project Gutenberg 标注美国公版；需核验适用地区及具体译本,https://www.gutenberg.org/ebooks/833,https://www.gutenberg.org/cache/epub/833/pg833.txt,books/en/the-theory-of-the-leisure-class-thorstein-veblen.txt,仅对应所列英文版本；不代表其他译本/扩充版可自由复制
@@ -22,7 +22,7 @@ BK020,La Distinction: Critique sociale du jugement（区分）,,待核验,待核
 BK021,Emotional Contagion,,待核验,待核验,未检索,未核验,,,,
 BK022,情绪心理学,,待核验,待核验,未检索,未核验,,,,
 BK023,The Expression of the Emotions in Man and Animals,Charles Darwin,en,1899 English edition,已下载并入库,Project Gutenberg 标注美国公版；需核验适用地区及具体译本,https://www.gutenberg.org/ebooks/1227,https://www.gutenberg.org/cache/epub/1227/pg1227.txt,books/en/the-expression-of-the-emotions-charles-darwin.txt,仅对应所列英文版本；不代表其他译本/扩充版可自由复制
-BK024,The Presentation of Self in Everyday Life,,待核验,待核验,未检索,未核验,,,,
+BK024,The Presentation of Self in Everyday Life,Erving Goffman,en,1956（GitHub 阅读记录）/1959（既有书目引用）年份冲突待核,GitHub 阅读记录仅提供 Monoskop 外链 PDF；文件访问、内容完整性及版本未验证,aarnphm 仓库 Apache-2.0 仅适用于仓库许可范围，不涵盖外链 PDF；版权/再分发授权不明,https://github.com/aarnphm/aarnphm.github.io/blob/bf260f41e04113eef55bd80ad4331ce5054bdfc8/content/library/The%20Presentation%20of%20Self%20in%20Everyday%20Life.md,https://monoskop.org/images/1/19/Goffman_Erving_The_Presentation_of_Self_in_Everyday_Life.pdf,,commit=bf260f41e04113eef55bd80ad4331ce5054bdfc8；path=content/library/The Presentation of Self in Everyday Life.md；文件仅含阅读条目与外链；未验证外链可访问性、PDF 完整性及再分发许可。
 BK025,把自己作为方法,,待核验,待核验,未检索,未核验,,,,
 BK026,Identity: Youth and Crisis,,待核验,待核验,未检索,未核验,,,,
 BK027,The Unresponsive Bystander: Why Doesn't He Help?,,待核验,待核验,未检索,未核验,,,,
@@ -35,13 +35,13 @@ BK033,网络传播概论（第 4 版）,,待核验,待核验,未检索,未核验
 BK034,Amusing Ourselves to Death,,待核验,待核验,未检索,未核验,,,,
 BK035,Frame Analysis: An Essay on the Organization of Experience,,待核验,待核验,未检索,未核验,,,,
 BK036,大众传播理论：范式与流派,,待核验,待核验,未取得合法可镜像全文；发现第三方 PDF/网盘下载聚合页但无可核验授权,第三方下载聚合页无作者/出版社再分发许可；未下载、未复制。独立笔记仓库无正式 LICENSE，仅 README 称“取用自由”,,,,新增16篇传播学理论笔记（非原书）：https://github.com/bai698304/encyclopaedia/blob/7947db8d880bdfc1b7d45522acec0873e8b9bc7c/传播学笔记/README.md
-BK037,"Story: Substance, Structure, Style and the Principles of Screenwriting",,待核验,待核验,未检索,未核验,,,,
+BK037,"Story: Substance, Structure, Style and the Principles of Screenwriting",Robert McKee,en,1997；ReganBooks（既有书目线索）,未发现可再分发全文；新增方法蒸馏文件（非原书）,未核验,,,,新增 McKee 叙事结构方法卡：https://github.com/shinyobjectz/raea/blob/873179a540e05aec599e68b0fccc0b0736f5c921/sdk/guides/craft/story/mckee.md；仓库 FSL-1.1-ALv2，方法卡不是原书。
 BK038,The Hero with a Thousand Faces,,待核验,待核验,未检索,未核验,,,,
 BK039,叙事学导论——从经典叙事学到后经典叙事学,,待核验,待核验,未检索,未核验,,,,
 BK040,Storynomics: Story-Driven Marketing in the Post-Advertising World,,待核验,待核验,未检索,未核验,,,,
 BK041,Морфология сказки（故事形态学）,,待核验,待核验,未检索,未核验,,,,
 BK042,修辞学 / Rhetoric,Aristotle,English,1872 edition: Aristotle's Treatise on Rhetoric; Thomas Hobbes and Theodore Alois Buckley,候选版本已下载并入库；待确认书目对应关系,Library of Congress marks this 1872 edition public domain,https://www.loc.gov/item/17028328/,https://archive.org/download/aristotlestreati00aris_0/aristotlestreati00aris_0.pdf,books/pdf/aristotles-treatise-on-rhetoric-1872.pdf,原书目未注明作者/版本；这是可用的候选版本，不作为已确认匹配
-BK043,金字塔原理,,待核验,待核验,未检索,未核验,,,,
+BK043,金字塔原理,Barbara Minto,zh-CN,待核验,未发现可再分发全文；有读书笔记/评论摘录,未核验,,,,新增笔记：https://github.com/wenfujie/document-library/blob/4c29bf909f72f2a71a70ea9bd143f8e2d0b7f8bc/docs/书籍/金字塔原理.md；含二手评论引文，非原书；仓库根目录未见 LICENSE。
 BK044,The Elements of Style,William Strunk Jr.,en,1918/1920 original Strunk text,已下载并入库,Project Gutenberg 标注美国公版；需核验适用地区及具体译本,https://www.gutenberg.org/ebooks/37134,https://www.gutenberg.org/cache/epub/37134/pg37134.txt,books/en/the-elements-of-style-william-strunk.txt,仅对应 Strunk 早期文本；不含后续 Strunk & White 扩充版
 BK045,文案的基本修养,,待核验,待核验,未检索,未核验,,,,
 BK046,文心,,待核验,待核验,未检索,未核验,,,,
@@ -56,10 +56,10 @@ BK054,The Attention Economy: Understanding the New Currency of Business,,待核�
 BK055,TED Talks: The Official TED Guide to Public Speaking,,待核验,待核验,未检索,未核验,,,,
 BK056,Talk Like TED,Carmine Gallo,en,待核验,未检索,未核验,,,,新增读书笔记：https://github.com/mgp/book-notes/blob/2f9287690310dd9801fec6105acaf274d76b6678/talk-like-ted.markdown
 BK057,播音发声学,,待核验,待核验,未检索,未核验,,,,
-BK058,The Science of Storytelling,Will Storr,en,待核验,未检索,未核验,,,,新增文学笔记/引文摘录：https://github.com/skellis46/slipbox/blob/047fd2016339b214f2ad5bbef4cc7a5cf782fc96/literature%20notes/Storr%20-%20The%20Science%20of%20Storytelling.md
+BK058,The Science of Storytelling,Will Storr,en,待核验,未发现可再分发全文；有简短阅读笔记,未核验,,,,新增文学笔记/引文摘录：https://github.com/skellis46/slipbox/blob/047fd2016339b214f2ad5bbef4cc7a5cf782fc96/literature%20notes/Storr%20-%20The%20Science%20of%20Storytelling.md；新增阅读笔记：https://github.com/aneurokumar/website/blob/b211fb5ac025dc5080630736d3c9292fd21df075/content/Book%20Notes/The%20Science%20of%20Storytelling%20by%20Will%20Storr.md；仓库 MIT License。
 BK059,NHK ことばのハンドブック（NHK 语言手册）,,待核验,待核验,未检索,未核验,,,,
 BK060,Film Art: An Introduction,,待核验,待核验,未检索,未核验,,,,
-BK061,Film Directing Shot by Shot,Steven D. Katz,en,待核验,未检索,未核验,,,,新增1条Kindle高亮：https://github.com/ejfox/website/blob/377f4ef074542a2710a3767d291d32ca8d27fcbf/content/reading/Katz-Film%20Directing%20Shot%20by%20Shot.md
+BK061,Film Directing Shot by Shot,Steven D. Katz,en,待核验,未发现可再分发全文；新增深读原理笔记（非原书）,未核验,,,,新增1条Kindle高亮：https://github.com/ejfox/website/blob/377f4ef074542a2710a3767d291d32ca8d27fcbf/content/reading/Katz-Film%20Directing%20Shot%20by%20Shot.md；新增深读原理笔记：https://github.com/Penny777btc/camera-blocking/blob/b9ccf513008c933e66c7cb4df325889f199d0bf0/reference.md；含镜头关系、景别、180° 规则和场面调度；仓库根目录未见 LICENSE。
 BK062,The Grammar of the Film Language,,待核验,待核验,未检索,未核验,,,,
 BK063,The Visual Story,,待核验,待核验,未检索,未核验,,,,
 BK064,电影摄影画面创作,,待核验,待核验,未检索,未核验,,,,
@@ -74,7 +74,7 @@ BK072,Die neue Typographie（新文字排版）,,待核验,待核验,未检索,�
 BK073,Detailtypografie,,待核验,待核验,未检索,未核验,,,,
 BK074,The Book of Why: The New Science of Cause and Effect,,待核验,待核验,未检索,未核验,,,,
 BK075,"Causality: Models, Reasoning, and Inference",,待核验,待核验,未检索,未核验,,,,
-BK076,Mostly Harmless Econometrics: An Empiricist's Companion,,待核验,待核验,未检索,未核验,,,,
+BK076,Mostly Harmless Econometrics: An Empiricist's Companion,Joshua D. Angrist；Jörn-Steffen Pischke,en,2008；Princeton University Press,未发现可再分发全文；仅确认书目引用,未核验,,,,元数据来源：https://github.com/uber/causalml/blob/d59bb520fc78410c01c443bad0ac57ea972844b8/docs/refs.bib；书名、作者、年份、出版社匹配。
 BK077,数据思维：从数据分析到商业价值,,待核验,待核验,未检索,未核验,,,,
 BK078,基本有用的计量经济学,,zh-CN,待核验,未检索,未核验,,,,新增读书笔记：https://github.com/FinneasY/FinneasY.github.io/blob/c31799c35612bb4be2dfe3dcc26e989efabefa8c/source/_posts/阅读笔记｜基本有用的计量经济学.md
 BK079,Counterfactuals,,待核验,待核验,未检索,未核验,,,,
@@ -88,18 +88,18 @@ BK086,Nonresponse in Household Interview Surveys,,待核验,待核验,未检索,
 BK087,Sampling: Design and Analysis,,待核验,待核验,未检索,未核验,,,,
 BK088,How to Measure Anything: Finding the Value of Intangibles in Business,,待核验,待核验,未检索,未核验,,,,
 BK089,Measure What Matters,,待核验,待核验,未检索,未核验,,,,
-BK090,"Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics",,待核验,待核验,未检索,未核验,,,,
+BK090,"Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics",William Albert；Thomas Tullis,en,2013；Newnes,未发现可再分发全文；仅确认书目引用,未核验,,,,元数据来源：https://github.com/UniRegensburg/mi-document-templates/blob/48398b4f7cb2f49b26ba67471116e68c32043ade/latex/literature.bib；书名、作者、年份、出版社匹配。
 BK091,The Fifth Discipline: The Art & Practice of the Learning Organization,,待核验,待核验,未检索,未核验,,,,
 BK092,The Fearless Organization,,待核验,待核验,未检索,未核验,,,,
 BK093,复盘+：把经验转化为能力,,待核验,待核验,未检索,未核验,,,,
-BK094,丰田生产方式,,待核验,待核验,未检索,未核验,,,,
+BK094,丰田生产方式,大野耐一,zh-CN,中信出版集团，2024-04-01；ISBN 9787521764192,未发现可再分发全文；有微信读书导入笔记,未核验,https://github.com/cloriselvis/wiki/blob/6e1e9cf524709e3cc74770455c732986e4d3eff9/wiki/books/%E4%B8%B0%E7%94%B0%E7%94%9F%E4%BA%A7%E6%96%B9%E5%BC%8F.md,,,新增微信读书导入笔记（阅读进度100%，373条高亮/笔记）：https://github.com/cloriselvis/wiki/blob/6e1e9cf524709e3cc74770455c732986e4d3eff9/wiki/books/丰田生产方式.md；仓库根目录未见 LICENSE；仅索引，不复制。
 BK095,The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer,,待核验,待核验,未检索,未核验,,,,
-BK096,The Mom Test: How to Talk to Customers & Learn If Your Business Is a Good Idea,,待核验,待核验,未检索,未核验,,,,
+BK096,The Mom Test: How to Talk to Customers & Learn If Your Business Is a Good Idea,Rob Fitzpatrick,en,2013-09-10；ISBN 1492180742,未发现可再分发全文；发现阅读资源清单/书目信息,未核验,,,,元数据来源：https://github.com/dwyl/start-here/blob/2b260efbde76cdd0cdb98aee35aeca63950d91f3/books-to-read.md；作者、日期、ISBN；非读书笔记或全文。
 BK097,Interviewing Users: How to Uncover Compelling Insights,,待核验,待核验,未检索,未核验,,,,
 BK098,Just Enough Research,,待核验,待核验,未检索,未核验,,,,
 BK099,Contextual Design: Defining Customer-Centered Systems,,待核验,待核验,未检索,未核验,,,,
-BK100,设计调研,,待核验,待核验,未检索,未核验,,,,
-BK101,Competing Against Luck: The Story of Innovation and Customer Choice,,待核验,待核验,未检索,未核验,,,,
+BK100,设计调研,,待核验,待核验,未发现可再分发全文；新增读书笔记/目录结构,未核验,https://github.com/Changes729/Changes729/blob/7a8bfdbf5ed89fae1df51056b2ad634796e30378/%E6%97%A5%E5%BF%97/%E7%AC%94%E8%AE%B0/%E4%B9%A6%E7%B1%8D/%E3%80%8A%E8%AE%BE%E8%AE%A1%E8%B0%83%E7%A0%94%E3%80%8B/README.md,,,新增读书笔记，含全书目录结构与章节要点：https://github.com/Changes729/Changes729/blob/7a8bfdbf5ed89fae1df51056b2ad634796e30378/日志/笔记/书籍/《设计调研》/README.md；仓库根目录未见 LICENSE。
+BK101,Competing Against Luck: The Story of Innovation and Customer Choice,,待核验,待核验,未发现可再分发全文；发现 MIT 许可 JTBD Skill（引用本书，非原书）,未核验,,,,新增方法资料：https://github.com/wondelai/skills/blob/c37678106e63ef1c5472d848fb3d8b8c5b33fafe/jobs-to-be-done/SKILL.md；文件 frontmatter 声明 MIT；内容为 JTBD 方法框架，不是本书全文或逐章笔记。
 BK102,Jobs to be Done: Theory to Practice,,待核验,待核验,未检索,未核验,,,,
 BK103,What Customers Want,,待核验,待核验,未检索,未核验,,,,
 BK104,The Challenger Sale: Taking Control of the Customer Conversation,,待核验,待核验,未检索,未核验,,,,
@@ -109,12 +109,12 @@ BK107,Competitive Strategy: Techniques for Analyzing Industries and Competitors,
 BK108,Blue Ocean Strategy,,待核验,待核验,未检索,未核验,,,,
 BK109,"Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets",,en,待核验,未检索,未核验,,,,新增前两章读书笔记：https://github.com/christopherdurr/booknotes/blob/b5c6dd55e9b30fb07f3aa01bbf87e94da6f2ee64/playbigger.md
 BK110,Competitive Advantage: Creating and Sustaining Superior Performance,,待核验,待核验,未检索,未核验,,,,
-BK111,营销的本质,,待核验,待核验,未检索,未核验,,,,
-BK112,Improving Performance: How to Manage the White Space on the Organization Chart,,待核验,待核验,未检索,未核验,,,,
+BK111,营销的本质,包政,zh-CN,版次/出版社/ISBN 未核,仅发现第三方下载目录及 CTFile 链接，不含书籍文件；未下载,目录明确版权归作者/权利人，链接仅供宽带测试并要求24小时删除；无再分发授权,https://github.com/jbiaojerry/ebook-treasure-chest/blob/93cf3ffcf5a2e6814644d1747a101272557d7eac/md/营销.md,https://url89.ctfile.com/f/31084289-1357049119-0dab70?p=8866,,commit=93cf3ffcf5a2e6814644d1747a101272557d7eac；path=md/营销.md；另列《营销的本质（珍藏版）》链接 https://url89.ctfile.com/f/31084289-1357048810-10c399?p=8866；仓库声明版权归权利人、链接仅供测试并要求24小时删除；未下载。
+BK112,Improving Performance: How to Manage the White Space on the Organization Chart,Geary A. Rummler；Alan P. Brache,en,3rd edition；2013；Jossey-Bass,未发现可再分发全文；仅确认书目引用,未核验,,,,元数据来源：https://github.com/TeamTopologies/Team-Topologies-Book-References/blob/5207ac26845b13e807e1fff987877897b041dbc0/Team-Topologies-references-Markdown.md；书名、作者、版次、年份、出版社匹配。
 BK113,Business Process Change: A Business Process Management Guide,,待核验,待核验,未检索,未核验,,,,
 BK114,Learning to See: Value Stream Mapping to Add Value and Eliminate Muda,,待核验,待核验,未检索,未核验,,,,
 BK115,Market Research in Practice: An Introduction to Gaining Greater Market Insight,,待核验,待核验,未检索,未核验,,,,
-BK116,The Market Research Toolbox,,待核验,待核验,未检索,未核验,,,,
+BK116,The Market Research Toolbox,Edward F. McQuarrie / Jie Xu（同名候选，待消歧）,en,候选1：SAGE，2006，228页；候选2：iUniverse，2005，204页；原书目无作者，未消歧,未发现可再分发全文；仅有第三方书目聚合页,未核验,https://github.com/devinschumacher/serpbooks.com/blob/515d724bfbf01090fb14c61184e9feb06ab1e74a/best/Market%20Research%20Books.md,,,同名候选元数据来自 GitHub 书目聚合页：Edward F. McQuarrie / SAGE / 2006-03-30 / 228页；另有 Jie Xu / iUniverse / 2005-03-30 / 204页；仓库无 LICENSE 文件，原始书目未给作者，需消歧。
 BK117,"Consumer Behavior: Buying, Having, and Being",,待核验,待核验,未检索,未核验,,,,
 BK118,消费者行为学：中国消费者透视,,待核验,待核验,未检索,未核验,,,,
 BK119,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,,待核验,待核验,未检索,未核验,,,,
@@ -122,11 +122,11 @@ BK120,The Millionaire Next Door,,en,待核验,未检索,未核验,,,,新增精�
 BK121,Small Business Management: Launching and Growing Entrepreneurial Ventures,,待核验,待核验,未检索,未核验,,,,
 BK122,Predictable Revenue,,待核验,待核验,未检索,未核验,,,,
 BK123,The Sales Acceleration Formula,,待核验,待核验,未检索,未核验,,,,
-BK124,阿里铁军销售课,,待核验,待核验,未检索,未核验,,,,
+BK124,阿里铁军销售课,李立恒,zh-CN,版次/出版社/ISBN 未核,仅发现第三方下载目录及 CTFile 链接，不含书籍文件；未下载,目录明确版权归作者/权利人，链接仅供宽带测试并要求24小时删除；无再分发授权,https://github.com/jbiaojerry/ebook-treasure-chest/blob/93cf3ffcf5a2e6814644d1747a101272557d7eac/md/创业.md,https://url89.ctfile.com/f/31084289-1357027711-425f64?p=8866,,commit=93cf3ffcf5a2e6814644d1747a101272557d7eac；path=md/创业.md；作者李立恒；仓库版权声明明确版权归权利人，链接仅供测试并要求24小时删除；未下载。
 BK125,运营之光：我的互联网运营方法论与自白,,待核验,待核验,未检索,未核验,,,,
 BK126,Building a StoryBrand,,待核验,待核验,未检索,未核验,,,,
 BK127,This Is Marketing,,待核验,待核验,未检索,未核验,,,,
-BK128,增长黑客：如何低成本实现爆发式成长,,待核验,待核验,未检索,未核验,,,,
+BK128,增长黑客：如何低成本实现爆发式成长,Sean Ellis；Morgan Brown,zh-CN,中信出版集团，2017；ISBN 9787508678535（既有元数据线索）,仅发现第三方下载目录及 CTFile 链接，不含书籍文件；未下载,目录明确版权归作者/权利人，链接仅供宽带测试并要求24小时删除；无再分发授权,https://github.com/jbiaojerry/ebook-treasure-chest/blob/93cf3ffcf5a2e6814644d1747a101272557d7eac/md/营销.md,https://url89.ctfile.com/f/31084289-1357017253-fb08da?p=8866,,commit=93cf3ffcf5a2e6814644d1747a101272557d7eac；path=md/营销.md；该仓库明确版权归权利人，链接仅供测试并要求24小时删除；该书的基本元数据已在旧 catalog 元数据索引登记，本轮不重复登记。
 BK129,SPIN Selling,,en,待核验,发现疑似整书英文文本线索（8章、约12万字符）；未复制，版权授权待核实,仓库根目录 MIT 许可不等于原书文本授权；未找到作者/出版社再分发许可，不入库,,,,发现疑似完整英文文本线索（8章、约12万字符），未复制；版权待核实：https://github.com/tarasowski/book-summaries/blob/09dba4326197c63417024e6f87bd6e644ef4bff1/sales/Spin%20Selling%20Book.md
 BK130,Getting to Yes: Negotiating Agreement Without Giving In,,待核验,待核验,未检索,未核验,,,,
 BK131,Never Split the Difference,,待核验,待核验,未检索,未核验,,,,
@@ -141,7 +141,7 @@ BK139,Specification by Example,,待核验,待核验,未检索,未核验,,,,
 BK140,The Goal: A Process of Ongoing Improvement,,待核验,待核验,未检索,未核验,,,,
 BK141,Inspired: How to Create Products Customers Love,,待核验,待核验,未检索,未核验,,,,
 BK142,The Seven Pillars of Customer Success,,待核验,待核验,未检索,未核验,,,,
-BK143,合同法研究,,待核验,待核验,未检索,未核验,,,,
+BK143,合同法研究,王利明,zh-CN,第一卷第3版（2015）/第三卷第2版（2015）；中国人民大学出版社,仅发现第三方下载聚合页（HTML）及外部下载页链接；未获得 PDF 文件,仓库根目录未见 LICENSE/COPYING 或权利人授权；版权状态不明，不复制,https://github.com/p0dsphbe/processorc/blob/af24ff84a2baa9d67ada89bbcf59e76ee9720cb2/__cache__/合同法研究-第一卷-(第三版)_PDF下载%5B143MB-%E7%99%BE%E5%BA%A6%E4%BA%91%5D%E7%8E%8B%E5%88%A9%E6%98%8E.html,http://www.chendianrong.com/pdf#730021647,,commit=af24ff84a2baa9d67ada89bbcf59e76ee9720cb2；vol.1 path=__cache__/合同法研究-第一卷-(第三版)_PDF下载[143MB-百度云]王利明.html，746页，2015-09-01，ISBN 9787300216478，blob=4b5231017b514ace4358837e390ea93c16662bc3；vol.3 path=__cache__/合同法研究-第三卷-(第二版)_PDF下载[62MB-百度云]王利明.html，789页，2015-12-01，ISBN 9787300131825，blob=4391170bc5cae22efb56dd71e69b1bcae5855a64；均为下载聚合页而非 PDF，未见授权。
 BK144,Customer Success: How Innovative Companies Are Reducing Churn and Growing Recurring Revenue,,待核验,待核验,未检索,未核验,,,,
 BK145,The Service Profit Chain,,待核验,待核验,未检索,未核验,,,,
 BK146,Permission Marketing,,待核验,待核验,未检索,未核验,,,,
@@ -187,9 +187,9 @@ BK185,Understanding Privacy,,待核验,待核验,未检索,未核验,,,,
 BK186,个人信息保护法理解与适用,,待核验,待核验,未检索,未核验,,,,
 BK187,知识产权法教程,,待核验,待核验,未检索,未核验,,,,
 BK188,Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture,Lawrence Lessig,en,2004 edition,已下载并入库；CC BY-NC 1.0,作者官方页面允许非商业复制并要求署名；本 PDF 首页标注 CC BY-NC 1.0,https://lessig.org/product/free-culture/,https://archive.org/download/free_culture/freeculture.pdf,books/pdf/free-culture-lawrence-lessig.pdf,保留 Lawrence Lessig 署名；仅限非商业使用
-BK189,"Ongoing Crisis Communication: Planning, Managing, and Responding",,待核验,待核验,未检索,未核验,,,,
+BK189,"Ongoing Crisis Communication: Planning, Managing, and Responding",W. Timothy Coombs,en,6th edition；SAGE Publications，2021；ISBN 9781071816646,未发现可再分发全文；仅确认书目引用,未核验,,,,元数据来源：https://github.com/gvwilson/thirdbit/blob/1d24cedd0c30a88af9690076b8cfa9b5739bee99/src/2026/04/08/lessons-from-crisis.md；书目列出第6版、SAGE、2021、ISBN 9781071816646。
 BK190,Designing Data-Intensive Applications,Martin Kleppmann; Chris Riccomini,zh-CN,第二版中文译本,发现第二版完整中文译本线上阅读/仓库；未镜像，原作及译文再分发权未核实,仓库 LICENSE 标注 CC BY 4.0，但原作/翻译权利未独立确认；Issue #18 提示仅供交流学习并要求24小时内删除；不复制、不再分发,https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/ch01.html,,,发现第二版中文译本线上全文线索，未镜像；授权待核实：https://github.com/Vonng/ddia/tree/bd8ef56e032f57184080d1418d8d9ae8dc3d483c/content
-BK191,Designing Machine Learning Systems,,待核验,待核验,未检索,未核验,,,,
+BK191,Designing Machine Learning Systems,Chip Huyen,en,O'Reilly 2022；简体中文版：中国电力出版社，2024-04-30，ISBN 9787519886288,未检索,未核验,,,,原版元数据沿用既有记录；新增作者官方翻译页，列出简体中文版《机器学习系统设计》、中国电力出版社、2024-04-30、ISBN 9787519886288：https://github.com/chiphuyen/dmls-book/blob/b9d1d085d121ec582ae2a41807b8b446d62492df/translations.md。
 BK192,The McKinsey Way,,待核验,待核验,未检索,未核验,,,,
 BK193,The Consulting Bible,,待核验,待核验,未检索,未核验,,,,
 BK194,Site Reliability Engineering（第 15 章：无责复盘）,,待核验,待核验,未检索,未核验,,,,
@@ -199,7 +199,7 @@ BK197,Software Estimation: Demystifying the Black Art,,待核验,待核验,未�
 BK198,The Pragmatic Programmer: Your Journey to Mastery,,待核验,待核验,未检索,未核验,,,,
 BK199,Give and Take: A Revolutionary Approach to Success,,待核验,待核验,未检索,未核验,,,,
 BK200,They Ask, You Answer,,待核验,待核验,未检索,未核验,,,
-BK201,The Go-Giver,,待核验,待核验,未检索,未核验,,,,
+BK201,The Go-Giver,Bob Burg,en,待核验,未发现可再分发全文；新增内容简介/五大法则摘要,未核验,https://github.com/SamuelMaldonado023/4997project_c/blob/6242546f53dad9c70d2c65aa77df4d95e4d84947/books_description_files/The%20Go-Giver.txt,,,新增约1KB内容简介与五大成功法则摘要：https://github.com/SamuelMaldonado023/4997project_c/blob/6242546f53dad9c70d2c65aa77df4d95e4d84947/books_description_files/The%20Go-Giver.txt；仓库根目录未见 LICENSE；仅索引，不复制。
 BK202,"Jab, Jab, Jab, Right Hook",,待核验,待核验,未检索,未核验,,,,
 BK203,Free: The Future of a Radical Price,,待核验,待核验,未检索,未核验,,,,
 BK204,A Theory of Psychological Reactance,,待核验,待核验,未检索,未核验,,,,
