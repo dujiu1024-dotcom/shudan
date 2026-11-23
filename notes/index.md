@@ -26,7 +26,7 @@
 | BK172 | Deep Work | 读书笔记 | https://github.com/tedmiston/notes/blob/afa87d3e47b903be4a49d6b1b0c3d4b6ff9bf34d/books/Deep%20Work.md |
 | BK177 | The Personal MBA | 读书笔记 | https://github.com/tedmiston/notes/blob/afa87d3e47b903be4a49d6b1b0c3d4b6ff9bf34d/books/The%20Personal%20MBA.md |
 | BK194 | Site Reliability Engineering | 读书笔记 | https://github.com/lorin/booknotes/blob/8de8dabe7c918e688720e2f862efa4120f36c272/Google-SRE.md |
-| BK199 | Give and Take | 章节笔记 | https://github.com/ibrahim0814/books/blob/f16f7a60817faa49fe4e22ce4cacd8cecebd19e1/Give%20and%20Take%20by%20Adam%20Grant/README.md |
+| BK199 | Give and Take | 章节笔记/读书总结（两个独立来源） | https://github.com/ibrahim0814/books/blob/f16f7a60817faa49fe4e22ce4cacd8cecebd19e1/Give%20and%20Take%20by%20Adam%20Grant/README.md；https://github.com/rwieruch/blog_robinwieruch_content/blob/835c4cb7173621a1833a62940d32458855c4a8b9/blog/lessons-learned-give-and-take/index.md |
 
 | BK044 | The Elements of Style | 第四版读书笔记（Strunk & White；与仓库已入库的早期 Strunk 单作者文本版本不同） | https://github.com/mgp/book-notes/blob/2f9287690310dd9801fec6105acaf274d76b6678/elements-of-style.markdown |
 
@@ -54,3 +54,9 @@
 | BK178 | 肖星的财务思维课 | 长篇读书笔记（采购、成本、薪酬、资产、报表与现金流） | https://github.com/zhangjunhd/reading-notes/blob/dec6f439c1b07121bd3ca11585ecd1c1e501a4c3/invest/xx.md |
 | BK179 | Small Giants | 第三方书籍概要/主题摘要；非逐章读书笔记 | https://github.com/ever-works/awesome-startup-books/blob/7e30a0a712794ebeac82bfa8e082e0e74c292c01/details/small-giants.md |
 完整逐本检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
+| BK043 | 金字塔原理 | 读书笔记/评论摘录（含二手评论引文） | https://github.com/wenfujie/document-library/blob/4c29bf909f72f2a71a70ea9bd143f8e2d0b7f8bc/docs/书籍/金字塔原理.md |
+| BK058 | The Science of Storytelling | 简短阅读笔记（2条要点） | https://github.com/aneurokumar/website/blob/b211fb5ac025dc5080630736d3c9292fd21df075/content/Book%20Notes/The%20Science%20of%20Storytelling%20by%20Will%20Storr.md |
+| BK061 | Film Directing Shot by Shot | 深读原理笔记：镜头关系、景别、轴线与场面调度 | https://github.com/Penny777btc/camera-blocking/blob/b9ccf513008c933e66c7cb4df325889f199d0bf0/reference.md |
+| BK094 | 丰田生产方式 | 微信读书导入笔记（含373条高亮/笔记及2024版书目信息） | https://github.com/cloriselvis/wiki/blob/6e1e9cf524709e3cc74770455c732986e4d3eff9/wiki/books/丰田生产方式.md |
+| BK100 | 设计调研 | 读书笔记/全书目录结构 | https://github.com/Changes729/Changes729/blob/7a8bfdbf5ed89fae1df51056b2ad634796e30378/日志/笔记/书籍/《设计调研》/README.md |
+| BK201 | The Go-Giver | 内容简介与五大成功法则摘要（非原书） | https://github.com/SamuelMaldonado023/4997project_c/blob/6242546f53dad9c70d2c65aa77df4d95e4d84947/books_description_files/The%20Go-Giver.txt |
