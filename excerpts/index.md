@@ -25,3 +25,6 @@
 | BK058 | The Science of Storytelling | 文学笔记，含多处直接引文与概念摘录；不是原书全文 | https://github.com/skellis46/slipbox/blob/047fd2016339b214f2ad5bbef4cc7a5cf782fc96/literature%20notes/Storr%20-%20The%20Science%20of%20Storytelling.md |
 | BK061 | Film Directing Shot by Shot | Kindle 单条高亮摘录（1 条）；不是完整读书笔记 | https://github.com/ejfox/website/blob/377f4ef074542a2710a3767d291d32ca8d27fcbf/content/reading/Katz-Film%20Directing%20Shot%20by%20Shot.md |
 完整检索记录见 sources/github-search-round-001.md 至 sources/github-search-round-004.md。
+| BK037 | Story | McKee 叙事结构方法卡（非原书） | https://github.com/shinyobjectz/raea/blob/873179a540e05aec599e68b0fccc0b0736f5c921/sdk/guides/craft/story/mckee.md | RAEA 项目中的方法蒸馏；FSL-1.1-ALv2；不是逐章笔记或全文 |
+| BK043 | 金字塔原理 | 书评摘录/方法摘要 | https://github.com/wenfujie/document-library/blob/4c29bf909f72f2a71a70ea9bd143f8e2d0b7f8bc/docs/书籍/金字塔原理.md | 含二手评论引文；需回原书核对，不是全文 |
+| BK101 | Competing Against Luck | JTBD 方法 Skill（引用本书，非原书摘要） | https://github.com/wondelai/skills/blob/c37678106e63ef1c5472d848fb3d8b8c5b33fafe/jobs-to-be-done/SKILL.md | 文件声明 MIT；方法框架，不是原书全文 |
